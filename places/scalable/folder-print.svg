@@ -6,11 +6,36 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="64"
    height="64"
    id="svg5453"
    version="1.1"
-   viewBox="0 0 64 64">
+   viewBox="0 0 64 64"
+   sodipodi:docname="folder-print.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="695"
+     id="namedview15"
+     showgrid="false"
+     inkscape:object-nodes="false"
+     inkscape:zoom="3.6875"
+     inkscape:cx="-7.7288136"
+     inkscape:cy="32"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5453" />
   <defs
      id="defs5455">
     <linearGradient
@@ -33,6 +58,27 @@
        x1="32.010437"
        id="linearGradient833"
        xlink:href="#linearGradient831" />
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#4d4d4d;
+      }
+      </style>
+    <style
+       id="current-color-scheme-3"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#bebebe;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-7">
+      .ColorScheme-Text {
+        color:#4d4d4d
+      }
+      </style>
   </defs>
   <metadata
      id="metadata5458">
@@ -42,7 +88,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -62,14 +108,9 @@
      id="folderShadow-9"
      d="m 1,57 c 0,0.55397 0.44603,1 1,1 h 60 c 0.55397,0 1,-0.44603 1,-1 z"
      style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:none" />
-  <g
-     style="fill:#b3e5fc;fill-opacity:1;stroke-width:0.76190478"
-     transform="matrix(1.3125,0,0,1.3125,17.5625,-10.624101)"
-     id="layer1">
-    <path
-       id="rect4166"
-       transform="translate(0,26)"
-       d="M 5,3 V 5 9 H 3 v 6 2 h 2 2 v 2 h 8 v -2 h 2 2 V 9 H 17 V 5 3 H 15 7 Z m 2,2 h 8 V 9 H 7 Z m -2,6 h 11 1 v 4 H 15 V 14 12 H 7 v 2 1 H 5 Z m 4,3 h 4 v 3 H 9 Z"
-       style="opacity:1;fill:#b3e5fc;fill-opacity:1;stroke:none;stroke-width:0.07619047;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.29943501" />
-  </g>
+  <path
+     style="opacity:1;vector-effect:none;fill:#b3e5fc;fill-opacity:1;stroke:#b3e5fc;stroke-width:0.16428113;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 23.704126,26.562912 v 1.479171 h 0.01925 v 6.734886 H 22.061314 20.58214 v 1.47917 8.377697 1.479173 h 6.571246 v 3.285623 h 1.479172 8.233308 v -1.479174 -1.806449 h 6.551993 v -1.479173 -8.377697 -1.47917 h -1.479174 -1.806451 v -8.214057 z m 1.498424,1.479171 h 13.450519 v 6.734886 H 25.20255 Z m -3.141235,8.214056 h 1.662063 1.479172 13.450519 1.479171 1.806451 v 8.377697 h -5.072822 v -3.449263 h -0.01925 -8.214056 -1.479174 v 1.479173 1.97009 h -5.092072 z m 6.571245,6.407607 h 6.754136 v 1.97009 h -0.01925 v 1.479173 h 0.01925 v 1.806449 H 28.63256 Z"
+     id="rect827"
+     inkscape:connector-curvature="0" />
 </svg>

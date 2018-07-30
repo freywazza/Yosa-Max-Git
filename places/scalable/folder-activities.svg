@@ -14,7 +14,7 @@
    version="1.1"
    viewBox="0 0 64 64"
    sodipodi:docname="folder-activities.svg"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+   inkscape:version="0.92.2 2405546, 2018-03-11">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -25,13 +25,13 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="796"
-     inkscape:window-height="826"
+     inkscape:window-height="691"
      id="namedview14"
      showgrid="false"
      inkscape:zoom="3.6875"
-     inkscape:cx="32"
+     inkscape:cx="-7.7288136"
      inkscape:cy="32"
-     inkscape:window-x="800"
+     inkscape:window-x="562"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg5453" />
@@ -66,7 +66,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -91,7 +91,7 @@
   </g>
   <path
      id="path3023"
-     d="m 26.225,25.999996 a 1.5750026,1.5749947 0 0 0 -1.575,1.575 1.5750026,1.5749947 0 0 0 1.575,1.575 1.5750026,1.5749947 0 0 0 1.575,-1.575 1.5750026,1.5749947 0 0 0 -1.575,-1.575 z m 8.925,0 -2.98594,2.98594 4.59375,4.59375 -4.75781,5.41406 3.15,2.75625 7.35,-8.4 z m -11.025,7.35 a 2.6249922,2.625 0 0 0 -2.625,2.625 2.6249922,2.625 0 0 0 2.625,2.625 2.6249922,2.625 0 0 0 2.625,-2.625 2.6249922,2.625 0 0 0 -2.625,-2.625 z m 4.725,7.35 a 3.149992,3.15 0 0 0 -3.15,3.15 3.149992,3.15 0 0 0 3.15,3.15 3.149992,3.15 0 0 0 3.15,-3.15 3.149992,3.15 0 0 0 -3.15,-3.15 z"
+     d="m 26.225,27.999996 a 1.5750026,1.5749947 0 0 0 -1.575,1.575 1.5750026,1.5749947 0 0 0 1.575,1.575 1.5750026,1.5749947 0 0 0 1.575,-1.575 1.5750026,1.5749947 0 0 0 -1.575,-1.575 z m 8.925,0 -2.98594,2.98594 4.59375,4.59375 -4.75781,5.41406 3.15,2.75625 7.35,-8.4 z m -11.025,7.35 a 2.6249922,2.625 0 0 0 -2.625,2.625 2.6249922,2.625 0 0 0 2.625,2.625 2.6249922,2.625 0 0 0 2.625,-2.625 2.6249922,2.625 0 0 0 -2.625,-2.625 z m 4.725,7.35 a 3.149992,3.15 0 0 0 -3.15,3.15 3.149992,3.15 0 0 0 3.15,3.15 3.149992,3.15 0 0 0 3.15,-3.15 3.149992,3.15 0 0 0 -3.15,-3.15 z"
      style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#b3e5fc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.47000003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker:none;enable-background:accumulate"
      inkscape:connector-curvature="0" />
 </svg>
