@@ -1,22 +1,25 @@
-*****Yosa Mix Icon Theme*****
+# *****Yosa Max Icon Theme*****
 
 ## V.1.0.0 (Oct 23 2017)
-## The first release of Yosa Mix Icon Theme.
+### The first release of Yosa Mix Icon Theme.
 
 ## V.1.0.1 (Dec 31 2017)
-## Minor fix to the network manager icon on the panel when using dial-up/broadband connection (changed the icon so it doesn't looked transparent).
+### Minor fix to the network manager icon on the panel when using dial-up/broadband connection (changed the icon so it doesn't looked transparent).
 
 ## V.1.2 (Jul 08 2018)
-## From now on, "Yosa Mix" will continue as "Yosa Max", as I'm trying to make it more "original" by adding more and more new icons :).
-## Changed some System Settings icons : preferences-desktop, preferences-desktop-plasma, preferences-desktop-theme, preferences-desktop-icons, preferences-desktop-activities, preferences-desktop-effects, plasma, plasma-media-center; Changed some devices icons : audio-headphones, audio-input-microphones, audio-speakers, computer, computer-laptop; Changed Places : user-desktop; etc.
-## More new icons will be coming soon (hopefully) as I'm a bit busy with my work right now, until then keep the love by using this icon theme ;))
+### From now on, "Yosa Mix" will continue as "Yosa Max", as I'm trying to make it more "original" by adding more and more new icons :).
+
+### Changed some System Settings icons : preferences-desktop, preferences-desktop-plasma, preferences-desktop-theme, preferences-desktop-icons, preferences-desktop-activities, preferences-desktop-effects, plasma, plasma-media-center; Changed some devices icons : audio-headphones, audio-input-microphones, audio-speakers, computer, computer-laptop; Changed Places : user-desktop; etc.
+
+### More new icons will be coming soon (hopefully) as I'm a bit busy with my work right now, until then keep the love by using this icon theme ;))
 
 ## V.1.3 (Jul 31 2018)
-## Changed into new icons : chrome, chrome-beta, chrome-dev, chrome-unstable, chromium, google-chrome-symbolic, firefox-symbolic, firefox, firefox-beta, audacious, cantata, uget, bluetooth, bluetooth-inactive, preferences-system-bluetooth, network-manager, preferences-desktop-display, input-touchpad, android-device, multimedia-player, video-television, emblem-web, preferences-desktop-display-symbolic, web-browser-symbolic, preferences-system-privacy-symbolic, gitg-symbolic, etc.
-## Improved/modified some "places" and "devices" icons.
+### Changed into new icons : chrome, chrome-beta, chrome-dev, chrome-unstable, chromium, google-chrome-symbolic, firefox-symbolic, firefox, firefox-beta, audacious, cantata, uget, bluetooth, bluetooth-inactive, preferences-system-bluetooth, network-manager, preferences-desktop-display, input-touchpad, android-device, multimedia-player, video-television, emblem-web, preferences-desktop-display-symbolic, web-browser-symbolic, preferences-system-privacy-symbolic, gitg-symbolic, etc.
+
+### Improved/modified some "places" and "devices" icons.
 
 
-## V.1.4
-## Changed into new icons : gnome-tweaks, web-browser, filezilla, help, system-help, start-here-gnome, remote-desktop, yast-remote, chrome-remote-desktop, preferences-desktop-remote-desktop *works on progress*
+## V.1.4 (Aug 16 2018)
+### Changed into new icons : gnome-tweaks, web-browser, filezilla, help, system-help, start-here-gnome, remote-desktop, yast-remote, chrome-remote-desktop, preferences-desktop-remote-desktop, krdc, kuickshow, kate, kwrite.
 
-## Improved/modified : uget, cantata, some "places/16x16" icons
+### Improved/modified : uget, cantata, some "places/16x16" icons.
