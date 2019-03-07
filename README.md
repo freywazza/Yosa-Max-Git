@@ -4,7 +4,7 @@
 
 <p align="center"> <img src ="preview/256.png"> </p>
 
-<h3 align="center"> <i> A free-form, bright, and clear icon theme while maintaining some subtlety. </i> </h3>
+<h3 align="center"> <i> A free-form, bright, and clean icon theme. </i> </h3>
 
 <p align="center"> <img src ="preview/1_5.png"> </p>
 
