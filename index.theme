@@ -1,6 +1,6 @@
 [Icon Theme]
 Name=Yosa Max
-Comment=A free-form, bright, and clear icon theme while maintaining some subtlety.
+Comment=A free-form, bright, and clean icon theme.
 Inherits=breeze,gnome,adwaita
 Directories=actions/symbolic,actions/22x22,animations/22x22,apps/scalable,apps/symbolic,devices/symbolic,devices/scalable,emblems/scalable,emblems/symbolic,emotes/scalable,mimetypes/scalable,mimetypes/symbolic,places/16x16,panel/16,panel/24,places/scalable,status/scalable,status/symbolic
 

@@ -5,9 +5,9 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   viewBox="0 0 22 22"
+   id="svg4"
    version="1.1"
-   id="svg4">
+   viewBox="0 0 22 22">
   <metadata
      id="metadata10">
     <rdf:RDF>
@@ -23,7 +23,19 @@
   <defs
      id="defs8" />
   <path
-     style="opacity:1;vector-effect:none;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.10000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     d="M 3,3 V 7 H 7 V 5.542969 H 9 V 10.5 v 1 6 h 1 5 V 19 h 4 v -4 h -4 v 1.5 h -5 v -5 h 5 V 13 h 4 V 9 h -4 v 1.5 H 10 V 5.542969 h 5 V 7 h 4 V 3 H 15 V 4.457031 H 7 V 3 Z"
-     id="rect845" />
+     id="rect858"
+     d="M 2,3 V 9 H 8 V 7 h 6 v 2 h 6 V 3 H 14 V 5 H 8 V 3 Z m 14,2 h 2 v 2 h -2 z"
+     style="opacity:1;vector-effect:none;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.48999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <path
+     id="rect864"
+     d="m 14,13 v 2 h -4 v 2 h 4 v 2 h 6 v -6 z m 2,2 h 2 v 2 h -2 z"
+     style="opacity:1;vector-effect:none;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.48999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <rect
+     transform="rotate(90)"
+     y="-11.999956"
+     x="5.8249078"
+     height="2"
+     width="10.174963"
+     id="rect870"
+     style="opacity:1;vector-effect:none;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.48999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
 </svg>

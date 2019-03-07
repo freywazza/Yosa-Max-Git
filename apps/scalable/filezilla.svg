@@ -35,7 +35,8 @@
        y1="58"
        x1="32"
        id="linearGradient829"
-       xlink:href="#linearGradient827" />
+       xlink:href="#linearGradient827"
+       gradientTransform="matrix(0.70967742,0,0,0.70967742,1.290323,1.2903226)" />
     <linearGradient
        id="linearGradient827">
       <stop
@@ -58,11 +59,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="701"
+     inkscape:window-height="699"
      id="namedview23"
      showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="-8.5423727"
+     inkscape:zoom="13.196678"
+     inkscape:cx="24"
      inkscape:cy="24"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -85,37 +86,24 @@
        stop-color="#f55"
        id="stop4" />
   </linearGradient>
-  <g
-     id="g845"
-     transform="translate(53.135594,-0.02296304)">
-    <g
-       id="g824"
-       transform="matrix(0.70967742,0,0,0.70967742,-51.845271,1.3132856)">
-      <path
-         id="folderTab"
-         d="M 4,6 C 3.44878,6.05512 3,6.446 3,7 V 9 49 H 61 V 14 13 11 c 0,-1 -1,-1 -1,-1 H 58 37 33 C 31,6 27,6 27,6 H 5 Z"
-         style="fill:#9a2020;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         inkscape:connector-curvature="0" />
-      <path
-         id="folderPaper-4"
-         d="M 7,13 H 57 V 45 H 7 Z"
-         style="color:#000000;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-         inkscape:connector-curvature="0" />
-      <path
-         id="folderFront-8"
-         d="m 39,15 c 0,0 -4,0 -6,4 H 29 4 2 c 0,0 -0.1319797,0.01691 -0.2890625,0.05859 -0.045956,0.01404 -0.091922,0.02277 -0.1347656,0.04297 C 1.3019415,19.211398 1,19.44477 1,20 v 2 1 34 c 0,0.55397 0.44603,1 1,1 h 60 c 0.55397,0 1,-0.44603 1,-1 V 18 16 c 0,-0.55397 -0.44603,-1 -1,-1 h -1 z"
-         style="fill:url(#linearGradient829);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         inkscape:connector-curvature="0" />
-      <path
-         id="folderShadow-2"
-         d="m 1,57 c 0,0.55397 0.44603,1 1,1 h 60 c 0.55397,0 1,-0.44603 1,-1 z"
-         style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:none"
-         inkscape:connector-curvature="0" />
-    </g>
-    <path
-       d="m -34.279512,19.819092 -3.507001,15.556589 h 2.849456 l 1.655212,-6.962101 h 7.777961 l -7.284186,6.520898 1.89924,2.18672 0.972644,-0.501176 c 1.839347,-0.945694 2.610754,-0.392738 4.006235,-0.0053 1.357617,0.37676 2.633914,0.779992 5.2818,-0.746319 l -0.52585,-2.693938 c -2.889785,2.05469 -3.804001,0.221507 -5.862219,0.148731 l 5.892032,-4.985669 0.639513,-2.661861 h -12.343056 l 0.794567,-3.194501 h 8.090064 l 0.554813,-2.661663 h -10.891677 z"
-       id="path17"
-       inkscape:connector-curvature="0"
-       style="fill:#ffffff" />
-  </g>
+  <path
+     id="folderTab"
+     d="M 4.1290327,5.5483871 C 3.7378443,5.5875045 3.4193553,5.8649032 3.4193553,6.2580645 V 7.6774194 36.064516 H 44.580646 V 11.225806 10.516129 9.0967742 c 0,-0.7096774 -0.709678,-0.7096774 -0.709678,-0.7096774 H 42.451613 27.548388 24.709678 C 23.290323,5.5483871 20.451613,5.5483871 20.451613,5.5483871 H 4.8387101 Z"
+     style="fill:#9a2020;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.7096774px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     inkscape:connector-curvature="0" />
+  <path
+     id="folderPaper-4"
+     d="M 6.2580649,10.516129 H 41.741936 V 33.225807 H 6.2580649 Z"
+     style="color:#000000;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.7096774;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     inkscape:connector-curvature="0" />
+  <path
+     id="folderFront-8"
+     d="m 28.967742,11.935484 c 0,0 -2.838709,0 -4.258064,2.83871 H 21.870968 4.1290327 2.7096778 c 0,0 -0.093663,0.012 -0.2051411,0.04158 -0.032614,0.01 -0.065235,0.01616 -0.09564,0.03049 -0.1946151,0.07795 -0.4088962,0.243569 -0.4088962,0.637603 v 1.419355 0.709677 24.129033 c 0,0.39314 0.3165374,0.709677 0.7096774,0.709677 H 45.290323 C 45.683463,42.451613 46,42.135076 46,41.741936 v -27.67742 -1.419355 c 0,-0.39314 -0.316537,-0.709677 -0.709677,-0.709677 h -0.709677 z"
+     style="fill:url(#linearGradient829);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.7096774px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:#ffffff;stroke-width:1"
+     inkscape:connector-curvature="0"
+     id="path17"
+     d="M 19.243124,20.870656 16,35.256725 h 2.635055 l 1.530669,-6.438253 h 7.192726 l -6.736104,6.030248 1.756336,2.022185 0.89946,-0.463467 c 1.700949,-0.874536 2.414313,-0.363187 3.704794,-0.0049 1.255467,0.348411 2.435732,0.721303 4.884384,-0.690164 l -0.486284,-2.491238 c -2.67235,1.900089 -3.517777,0.20484 -5.42113,0.13754 L 31.408605,28.74817 32,26.286595 H 20.585669 l 0.734782,-2.954139 h 7.481346 l 0.513067,-2.461392 H 19.242706 Z" />
 </svg>

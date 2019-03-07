@@ -1,9 +1,94 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
- <defs>
-  <style type="text/css" id="current-color-scheme">
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg7"
+   sodipodi:docname="document-encrypted.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11">
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="699"
+     id="namedview9"
+     showgrid="false"
+     inkscape:zoom="22.136364"
+     inkscape:cx="11"
+     inkscape:cy="11"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7" />
+  <defs
+     id="defs3">
+    <style
+       type="text/css"
+       id="current-color-scheme">
    .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
   </style>
- </defs>
- <path style="fill:currentColor;opacity:1" class="ColorScheme-Text" transform="translate(3 3)" d="M 8 1 C 5.784 1 4 2.8216 4 5.0625 L 4 7 L 3 7 C 2.446 7 2 7.446 2 8 L 2 14 C 2 14.554 2.446 15 3 15 L 13 15 C 13.554 15 14 14.554 14 14 L 14 8 C 14 7.446 13.554 7 13 7 L 12 7 L 12 5.0625 C 12 2.8225 10.216 1 8 1 z M 8 3 C 9.108 3 10 3.892 10 5 L 10 7 L 6 7 L 6 5 C 6 3.892 6.892 3 8 3 z"/>
+    <style
+       id="current-color-scheme-35"
+       type="text/css">
+   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
+  </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-3">
+   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
+  </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-6">
+   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
+  </style>
+  </defs>
+  <g
+     id="g823"
+     transform="translate(-1,-1.0001735)"
+     style="fill:#5c616c;fill-opacity:1">
+    <path
+       inkscape:connector-curvature="0"
+       d=""
+       cx="-0.82627177"
+       cy="6.8347459"
+       r="5"
+       id="path826"
+       style="opacity:1;fill:#5c616c;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#5c616c;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="m 6,12.000347 v 8 h 12 v -8 z m 2,2 h 8 v 4 H 8 Z"
+       id="rect946" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#5c616c;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 11.955078,4 A 4,4 0 0 0 7.9550781,8 v 4 h 2 V 8 a 2,2 0 0 1 1.9999999,-2 2,2 0 0 1 2,2 v 4 h 2 V 8 a 4,4 0 0 0 -4,-4 z"
+       id="rect948" />
+  </g>
 </svg>

@@ -1,1 +1,82 @@
-<svg viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg"><path d="m5.068099 3c-.7562 0-1.36643.17907-1.82753.53711-.46109.34862-.76845.72996-.92523 1.14453l1.16037.50977c.11066-.31093.31471-.55731.60981-.73633.30432-.17902.64046-.26758 1.00934-.26758.49799 0 .91665.15587 1.25786.4668.34121.30151.51232.70605.51232 1.21484v.19727c-.47954-.28266-1.09201-.42383-1.83899-.42383-.8392 0-1.54442.21697-2.11619.65039-.57176.42399-.85832 1.01381-.85832 1.76758 0 .69723.23923 1.25764.71877 1.68164.48876.42399 1.09292.63476 1.81223.63476.97753 0 1.71986-.39604 2.22706-1.1875h.0554v.9629h1.21771v-4.1836c0-.94221-.28657-1.67319-.85833-2.19141-.57176-.51821-1.28945-.77734-2.15632-.77734zm.1797 3.7168c.71931 0 1.25758.15162 1.61724.45312 0 .54649-.21653 1.02259-.64996 1.42774-.42421.39573-.89852.59179-1.42417.59179-.36888 0-.69669-.099-.98257-.29687-.28589-.19786-.42821-.46549-.42821-.80469 0-.36746.15672-.68769.47025-.96093.31356-.27325.77955-.41016 1.39742-.41016zm-3.137 5.35742v1.1875h3.74872l-3.8596 4.60742v1.13086h5.47876v-1.1875h-3.91504l3.85959-4.60742v-1.13086zm12.84046 1.05078c-.18023.00067-.35992.0718-.49702.21289l-4.31074 4.43555c-.27418.28216-.27235.73756.004 1.01758.27605.28002.72178.27814.99596-.004l3.81371-3.92578 3.8424 3.89648c.27602.28001.72189.28009.99596-.002.27431-.28203.27248-.7394-.004-1.01953l-4.34134-4.40231c-.13802-.13998-.31861-.20965-.49894-.20899z" fill="#4d4d4d"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="view-sort-ascending.svg"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   width="22"
+   height="22">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="699"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="-5.220339"
+     inkscape:cy="7.3898305"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <g
+     id="g831"
+     transform="translate(-1,-0.99999976)"
+     style="fill:#4d4d4d;fill-opacity:1">
+    <rect
+       y="3.9999995"
+       x="3"
+       height="4"
+       width="4"
+       id="rect826"
+       style="opacity:1;vector-effect:none;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect832"
+       width="4"
+       height="4"
+       x="3"
+       y="9.999999" />
+    <rect
+       y="16"
+       x="3"
+       height="4"
+       width="4"
+       id="rect834"
+       style="opacity:1;vector-effect:none;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <path
+       inkscape:connector-curvature="0"
+       id="rect838"
+       d="m 15,4 -6,8 h 4 v 8 h 4 v -8 h 4 z"
+       style="opacity:1;vector-effect:none;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1.99999988;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+  </g>
+</svg>
