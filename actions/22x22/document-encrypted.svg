@@ -35,11 +35,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="699"
+     inkscape:window-height="701"
      id="namedview9"
      showgrid="false"
      inkscape:zoom="22.136364"
-     inkscape:cx="11"
+     inkscape:cx="2.1457907"
      inkscape:cy="11"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -68,27 +68,16 @@
    .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
   </style>
   </defs>
-  <g
-     id="g823"
-     transform="translate(-1,-1.0001735)"
-     style="fill:#5c616c;fill-opacity:1">
-    <path
-       inkscape:connector-curvature="0"
-       d=""
-       cx="-0.82627177"
-       cy="6.8347459"
-       r="5"
-       id="path826"
-       style="opacity:1;fill:#5c616c;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
-    <path
-       inkscape:connector-curvature="0"
-       style="opacity:1;fill:#5c616c;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-       d="m 6,12.000347 v 8 h 12 v -8 z m 2,2 h 8 v 4 H 8 Z"
-       id="rect946" />
-    <path
-       inkscape:connector-curvature="0"
-       style="opacity:1;fill:#5c616c;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-       d="M 11.955078,4 A 4,4 0 0 0 7.9550781,8 v 4 h 2 V 8 a 2,2 0 0 1 1.9999999,-2 2,2 0 0 1 2,2 v 4 h 2 V 8 a 4,4 0 0 0 -4,-4 z"
-       id="rect948" />
-  </g>
+  <path
+     style="opacity:1;fill:#5c616c;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     id="path826"
+     r="5"
+     cy="6.8347459"
+     cx="-0.82627177"
+     d=""
+     inkscape:connector-curvature="0" />
+  <path
+     style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     d="M 10.955078 3 A 4 4 0 0 0 6.9550781 7 L 6.9550781 11 L 5 11 L 5 19 L 17 19 L 17 11 L 14.955078 11 L 14.955078 7 A 4 4 0 0 0 10.955078 3 z M 10.955078 5 A 2 2 0 0 1 12.955078 7 L 12.955078 11 L 8.9550781 11 L 8.9550781 7 A 2 2 0 0 1 10.955078 5 z M 7 13 L 15 13 L 15 17 L 7 17 L 7 13 z "
+     id="rect946" />
 </svg>

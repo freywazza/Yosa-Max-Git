@@ -25,12 +25,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="699"
+     inkscape:window-height="701"
      id="namedview39"
      showgrid="false"
-     inkscape:zoom="10.145833"
-     inkscape:cx="4.6817242"
-     inkscape:cy="24"
+     inkscape:zoom="5.0729165"
+     inkscape:cx="-15.820463"
+     inkscape:cy="33.046207"
      inkscape:current-layer="SVGRoot"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -613,11 +613,11 @@
       <stop
          id="stop946"
          offset="0"
-         style="stop-color:#d2d2d2;stop-opacity:1" />
+         style="stop-color:#666666;stop-opacity:1" />
       <stop
          id="stop948"
          offset="1"
-         style="stop-color:#ebebeb;stop-opacity:1" />
+         style="stop-color:#999999;stop-opacity:1" />
     </linearGradient>
   </defs>
   <metadata
