@@ -16,4 +16,4 @@ You can add new icons or modify/change/improve the existing icons.
 There are no strict guidelines or rules on creating new icons for this icon theme. As long as it looks good and matches the other icons, then that's it.
 I'll always be happy to receive any kind of contributions.
 
-<i>Please consider to add a png-preview files of your new icons, see [preview](/preview) directory.</i>
+<i>Please consider to add a png-preview files of your new icons, see [preview](Yosa-Max/preview) directory.</i>
