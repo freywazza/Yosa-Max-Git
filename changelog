@@ -51,3 +51,13 @@
 ### Actions : dialog-messages, view-calendar-month, view-calendar-week, view-calendar-list, view-calendar-special-occasion, view-calendar-upcoming-events, jump-today, etc.
 
 ### Status : dialog-password, dialog-question, firewall-applet, security-high, security-medium, security-low.
+
+
+## v1.7 (Apr 16 2019)
+### Added a dark variant.
+
+### Redesigned/changed "places/16x16" icons into glyph style.
+
+### Added more mimetype icons, Apps : openra-ra, openra-d2k, openra-cnc.
+
+### Fixed missing symlink.
