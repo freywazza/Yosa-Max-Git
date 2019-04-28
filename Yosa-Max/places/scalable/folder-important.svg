@@ -6,11 +6,35 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 64 64"
    version="1.1"
    id="svg5453"
    height="64"
-   width="64">
+   width="64"
+   sodipodi:docname="folder-important.svg"
+   inkscape:version="0.92.4 (unknown)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="711"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="7.34375"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5453" />
   <defs
      id="defs5455">
     <linearGradient
@@ -33,6 +57,75 @@
        y2="15.119835"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(0,-3.8146973e-6)" />
+    <style
+       id="current-color-scheme"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#4d4d4d;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-5">
+      .ColorScheme-Text {
+        color:#4d4d4d;
+      }
+      </style>
+    <style
+       id="current-color-scheme-35"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#000000;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-3">
+      .ColorScheme-Text {
+        color:#000000;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-9">
+      .ColorScheme-Text {
+        color:#000000;
+      }
+      </style>
+    <style
+       id="current-color-scheme-3-3"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#000000;
+      }
+      </style>
+    <style
+       id="current-color-scheme-2"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#000000;
+      }
+      </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-0">
+   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
+  </style>
+    <style
+       type="text/css"
+       id="current-color-scheme-37">
+   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
+  </style>
+    <style
+       id="current-color-scheme-3-5"
+       type="text/css">
+   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
+  </style>
+    <style
+       id="current-color-scheme-6"
+       type="text/css">
+   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
+  </style>
   </defs>
   <metadata
      id="metadata5458">
@@ -42,7 +135,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -59,11 +152,8 @@
      d="m 39,14.999996 c 0,0 -4,0 -6,4 H 29 4 2 c 0,0 -0.1319813,0.01691 -0.2890625,0.05859 -0.045956,0.01404 -0.091922,0.02277 -0.1347656,0.04297 C 1.3019442,19.211394 1,19.444766 1,19.999996 v 2 1 34 c 0,0.55397 0.44603,1 1,1 h 60 c 0.55397,0 1,-0.44603 1,-1 v -39 -2 c 0,-0.55397 -0.44603,-1 -1,-1 h -1 z"
      id="folderFront-2" />
   <path
-     style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:none"
-     d="m 1,57 c 0,0.55397 0.44603,1 1,1 h 60 c 0.55397,0 1,-0.44603 1,-1 z"
-     id="folderShadow-9" />
-  <path
-     style="fill:#b3e5fc;fill-opacity:1;stroke-width:1.53428972"
-     id="path4195"
-     d="m 31.945195,25.584742 c -1.21504,0 -2.2,1.050359 -2.2,2.345233 0,1.294884 0.98496,13.695445 2.2,13.695445 1.21503,0 2.2,-12.400561 2.2,-13.695445 0,-1.294874 -0.98496,-2.345224 -2.2,-2.345233 z m 0.0559,18.218076 a 2.2550052,2.3487983 0 0 0 -2.25586,2.347467 2.2550052,2.3487983 0 0 0 2.25586,2.349711 2.2550052,2.3487983 0 0 0 2.25371,-2.349711 2.2550052,2.3487983 0 0 0 -2.25371,-2.347467 z" />
+     id="path827"
+     d="m 32,26 c -6.075131,0 -11,4.924868 -11,11 0,6.075132 4.924869,11 11,11 6.075132,0 11,-4.924869 11,-11 0,-6.075132 -4.924868,-11 -11,-11 z m -1.03125,4.125 h 2.0625 v 8.25 h -2.0625 z m 0,11 h 2.0625 v 2.75 h -2.0625 z"
+     style="fill:#e3f9f9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.14285707"
+     inkscape:connector-curvature="0" />
 </svg>

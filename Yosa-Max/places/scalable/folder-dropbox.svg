@@ -6,11 +6,35 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 64 64"
    version="1.1"
    id="svg5453"
    height="64"
-   width="64">
+   width="64"
+   sodipodi:docname="folder-dropbox.svg"
+   inkscape:version="0.92.4 (unknown)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="711"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="8.9253438"
+     inkscape:cx="48.449153"
+     inkscape:cy="32.000002"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5453" />
   <defs
      id="defs5455">
     <linearGradient
@@ -33,6 +57,13 @@
        y2="15.119835"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(0,-3.8146973e-6)" />
+    <style
+       id="current-color-scheme"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#4d4d4d;
+      }
+      </style>
   </defs>
   <metadata
      id="metadata5458">
@@ -42,7 +73,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -59,11 +90,9 @@
      d="m 39,14.999996 c 0,0 -4,0 -6,4 H 29 4 2 c 0,0 -0.1319813,0.01691 -0.2890625,0.05859 -0.045956,0.01404 -0.091922,0.02277 -0.1347656,0.04297 C 1.3019442,19.211394 1,19.444766 1,19.999996 v 2 1 34 c 0,0.55397 0.44603,1 1,1 h 60 c 0.55397,0 1,-0.44603 1,-1 v -39 -2 c 0,-0.55397 -0.44603,-1 -1,-1 h -1 z"
      id="folderFront-2" />
   <path
-     style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:none"
-     d="m 1,57 c 0,0.55397 0.44603,1 1,1 h 60 c 0.55397,0 1,-0.44603 1,-1 z"
-     id="folderShadow-9" />
-  <path
-     id="path4246"
-     d="m 27.6,25.911761 -6.6,4.23529 4.4,3.17647 6.6,-4.23529 z m 4.4,3.17647 6.6,4.23529 4.4,-3.17647 -6.6,-4.23529 z m -6.6,5.29412 -4.4,3.17647 6.6,4.23529 4.4,-3.17647 z m 6.6,4.23529 4.4,3.17647 6.6,-4.23529 -4.4,-3.17647 z m 0,1.05883 -4.50098,3.46599 L 25.4,41.794111 v 1.05883 l 1.34922,0.86649 5.25078,3.3688 5.25078,-3.3688 1.34922,-0.86649 v -1.05883 l -2.09902,1.34835 z"
-     style="fill:#b3e5fc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.07921541px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+     id="path4"
+     d="m 27.88949,42.499092 4.110523,-3.50485 -5.937477,-3.75089 L 22,38.57614 Z m 4.110523,-3.505158 4.12258,3.505004 L 42,38.575987 37.937608,35.243352 Z m 0,0.762702 -4.110523,3.492474 -1.76691,-1.180507 v 1.327974 L 32.000013,47 37.913534,43.396577 V 42.068603 L 36.146498,43.24911 Z M 22,31.922966 26.062536,35.243352 32.000013,31.50485 27.88949,28 Z M 36.122593,28 32.000013,31.50485 37.937608,35.243352 42,31.922966 Z"
+     class="ColorScheme-Text"
+     style="color:#4d4d4d;fill:#e3f9f9;fill-opacity:1;stroke:none;stroke-width:1"
+     inkscape:connector-curvature="0" />
 </svg>

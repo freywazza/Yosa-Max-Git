@@ -14,7 +14,7 @@
    height="64"
    width="64"
    sodipodi:docname="folder-publicshare.svg"
-   inkscape:version="0.92.2 2405546, 2018-03-11">
+   inkscape:version="0.92.4 (unknown)">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -25,12 +25,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="695"
+     inkscape:window-height="711"
      id="namedview14"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="-4.085308"
-     inkscape:cy="35.900474"
+     inkscape:zoom="7.990566"
+     inkscape:cx="10"
+     inkscape:cy="32"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -64,6 +64,13 @@
         color:#4d4d4d;
       }
       </style>
+    <style
+       id="current-color-scheme-3"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#4d4d4d;
+      }
+      </style>
   </defs>
   <metadata
      id="metadata5458">
@@ -90,16 +97,8 @@
      d="m 39,14.999996 c 0,0 -4,0 -6,4 H 29 4 2 c 0,0 -0.1319813,0.01691 -0.2890625,0.05859 -0.045956,0.01404 -0.091922,0.02277 -0.1347656,0.04297 C 1.3019442,19.211394 1,19.444766 1,19.999996 v 2 1 34 c 0,0.55397 0.44603,1 1,1 h 60 c 0.55397,0 1,-0.44603 1,-1 v -39 -2 c 0,-0.55397 -0.44603,-1 -1,-1 h -1 z"
      id="folderFront-2" />
   <path
-     style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:none"
-     d="m 1,57 c 0,0.55397 0.44603,1 1,1 h 60 c 0.55397,0 1,-0.44603 1,-1 z"
-     id="folderShadow-9" />
-  <path
-     style="color:#000000;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#b3e5fc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-     d="m 29,43.978516 v -8 h -3 v -2 -0.01172 l 5.990234,-5.988282 H 32 h 0.0098 L 38,33.966798 v 0.01172 2 h -3 v 8 z m 2,-2 h 2 v -6 -2 h 2.181641 L 32,30.796876 28.818359,33.978516 H 31 v 2 z"
-     id="path878"
-     inkscape:connector-curvature="0" />
-  <path
-     style="color:#000000;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#b3e5fc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-     d="m 22,43.97867 v 2 2 h 2 18 v -2 -2 h -2 v 2 H 24 v -2 z"
-     id="folderGlyph-1" />
+     inkscape:connector-curvature="0"
+     id="path820"
+     d="M 26.285714,48 V 46.571429 45.142857 42.921876 40.857143 H 37.714285 V 42.921876 45.142857 47.20759 48 Z m 0,-8.571428 V 36.571429 H 22 L 32,28 42,36.571429 h -4.285715 v 2.857143 z"
+     style="opacity:1;fill:#e3f9f9;fill-opacity:1;stroke-width:1.54552436" />
 </svg>
