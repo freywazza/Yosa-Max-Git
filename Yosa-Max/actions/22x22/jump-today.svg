@@ -1,1 +1,20 @@
-<svg viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg"><path d="m4 3c-.55402 0-1 .44599-1 1v14c0 .55402.44598 1 1 1h14c .55401 0 1-.44598 1-1v-14c0-.55401-.44599-1-1-1zm3.11914 3a1.2697625 1.2697625 0 0 1 1.26953 1.26953 1.2697625 1.2697625 0 0 1 -1.26953 1.27149 1.2697625 1.2697625 0 0 1 -1.26953-1.27149 1.2697625 1.2697625 0 0 1 1.26953-1.26953zm3.87305 0a1.2697625 1.2697625 0 0 1 1.26953 1.26953 1.2697625 1.2697625 0 0 1 -1.26953 1.27149 1.2697625 1.2697625 0 0 1 -1.26954-1.27149 1.2697625 1.2697625 0 0 1 1.26954-1.26953zm3.88867 0a1.2697625 1.2697625 0 0 1 1.26953 1.26953 1.2697625 1.2697625 0 0 1 -1.26953 1.26953 1.2697625 1.2697625 0 0 1 -1.26953-1.26953 1.2697625 1.2697625 0 0 1 1.26953-1.26953zm0 3.69727a1.2697625 1.2697625 0 0 1 1.26953 1.27148 1.2697625 1.2697625 0 0 1 -1.26953 1.26953 1.2697625 1.2697625 0 0 1 -1.26953-1.26953 1.2697625 1.2697625 0 0 1 1.26953-1.27148zm-7.76172.002a1.2697625 1.2697625 0 0 1 1.26953 1.26953 1.2697625 1.2697625 0 0 1 -1.26953 1.26953 1.2697625 1.2697625 0 0 1 -1.26953-1.26953 1.2697625 1.2697625 0 0 1 1.26953-1.26953zm3.87305 0a1.2697625 1.2697625 0 0 1 1.26953 1.26953 1.2697625 1.2697625 0 0 1 -1.26953 1.26953 1.2697625 1.2697625 0 0 1 -1.26954-1.26953 1.2697625 1.2697625 0 0 1 1.26954-1.26953zm-3.87305 3.76172a1.2697625 1.2697625 0 0 1 1.26953 1.26953 1.2697625 1.2697625 0 0 1 -1.26953 1.26953 1.2697625 1.2697625 0 0 1 -1.26953-1.26953 1.2697625 1.2697625 0 0 1 1.26953-1.26953z" fill="#4d4d4d"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg4" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs8">
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#4d4d4d;
+      }</style>
+  <style id="current-color-scheme-5" type="text/css">.ColorScheme-Text {
+        color:#4d4d4d;
+      }</style>
+ </defs>
+ <path id="rect817" d="m2.9999996 3.0000001v16h16v-16zm1 1h14v14h-14z" style="fill:#4d4d4d;paint-order:stroke fill markers"/>
+ <rect id="rect824" x="2.9999998" y="6" width="16" height="2" style="fill:#4d4d4d;paint-order:stroke fill markers"/>
+ <rect id="rect828" x="5.9999995" y="10" width="2" height="2" style="fill:#4d4d4d;paint-order:stroke fill markers"/>
+ <rect id="rect830" x="10" y="10" width="2" height="2" style="fill:#4d4d4d;paint-order:stroke fill markers"/>
+ <rect id="rect836" x="14" y="10" width="2" height="2" style="fill:#4d4d4d;paint-order:stroke fill markers"/>
+ <rect id="rect858" x="5.9999995" y="14" width="2" height="2" style="fill:#4d4d4d;paint-order:stroke fill markers"/>
+ <rect id="rect860" x="10" y="14" width="2" height="2" style="fill:#4d4d4d;paint-order:stroke fill markers"/>
+ <rect id="rect866" x="14" y="14" width="2" height="2" style="fill:#4d4d4d;paint-order:stroke fill markers"/>
+ <path id="rect834" d="m1.9999999 2.0000001v18h18v-18zm2 2h14v14h-14z" style="fill:#4d4d4d;paint-order:stroke fill markers"/>
+</svg>
