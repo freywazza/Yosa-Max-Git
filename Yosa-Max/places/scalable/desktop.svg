@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg id="svg5453" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs id="defs5455">
   <linearGradient id="linearGradient32536" x1="-632.40582" x2="-632.40582" y1="-14.766019" y2="355.44159" gradientTransform="matrix(.045388 0 0 .06770834 60.238081 7.1971803)" gradientUnits="userSpaceOnUse">
@@ -18,7 +19,7 @@
    <stop id="stop1192" style="stop-color:#17e0ff" offset=".92333913"/>
    <stop id="stop1194" style="stop-color:#000000;stop-opacity:0" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient25266">
+  <linearGradient id="linearGradient27477" x1=".99992424" x2="63.002922" y1="29.517246" y2="29.517246" gradientUnits="userSpaceOnUse">
    <stop id="stop25262" style="stop-color:#ff2a35;stop-opacity:.1882353" offset="0"/>
    <stop id="stop25270" style="stop-color:#1dbd9f;stop-opacity:.31764707" offset=".1813584"/>
    <stop id="stop25272" style="stop-color:#0040f4;stop-opacity:.53618421" offset=".35909528"/>
@@ -26,7 +27,6 @@
    <stop id="stop25276" style="stop-color:#75157a;stop-opacity:.38431373" offset=".78122038"/>
    <stop id="stop25264" style="stop-color:#1bd8ff;stop-opacity:.25882354" offset="1"/>
   </linearGradient>
-  <linearGradient id="linearGradient27477" x1=".99992424" x2="63.002922" y1="29.517246" y2="29.517246" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient25266"/>
  </defs>
  <path id="rect32304" d="M 4.6152344 6 C 2.6128844 6 1 7.6128844 1 9.6152344 L 1 32 L 63 32 L 63 9.6152344 C 63 7.6128844 61.387116 6 59.384766 6 L 4.6152344 6 z " style="fill:url(#linearGradient32536);stroke-width:.99388415"/>
  <path id="rect32306" d="m1 30.248047v24.136719c0 2.00235 1.6128844 3.615234 3.6152344 3.615234h54.769532c2.00235 0 3.615234-1.612884 3.615234-3.615234v-24.136719h-62z" style="fill:url(#linearGradient32538);stroke-width:1.0268233"/>
