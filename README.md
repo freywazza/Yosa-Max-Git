@@ -2,7 +2,7 @@
 
 <p align="center"> <b> Yosa Max Icon Theme (previously Yosa Mix Icon Theme) </b> </p>
 
-<p align="center"> <img src ="Yosa-Max/preview/256.png"> </p>
+<p align="center"> <img src ="Yosa-Max/preview/128.png"> </p>
 
 <h3 align="center"> <i> A free-form, bright, and clean icon theme. </i> </h3>
 
