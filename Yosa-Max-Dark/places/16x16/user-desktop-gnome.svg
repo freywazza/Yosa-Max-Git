@@ -1,62 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 16 16"
-   version="1.1"
-   id="svg6"
-   sodipodi:docname="user-desktop-gnome.svg"
-   inkscape:version="0.92.2 2405546, 2018-03-11">
-  <metadata
-     id="metadata10">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="699"
-     id="namedview8"
-     showgrid="false"
-     inkscape:zoom="30.4375"
-     inkscape:cx="8"
-     inkscape:cy="8"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg6" />
-  <defs
-     id="defs3051">
-    <style
-       type="text/css"
-       id="current-color-scheme">
-      .ColorScheme-Text {
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg6" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs3051">
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
         color:#dfdfdf;
-      }
-      </style>
-  </defs>
-  <path
-     style="color:#dfdfdf;fill:#dfdfdf;fill-opacity:1;stroke:none;stroke-width:0.99999994"
-     class="ColorScheme-Text"
-     d="M 11.945691,1 C 9.3886332,1 8.9085672,5.1482794 10.347056,5.1482794 11.785335,5.1482794 14.502851,1 11.945691,1 Z M 7.8666813,1.5189777 C 6.4276739,1.7317147 6.9340631,4.5813425 7.7002864,4.6346155 8.466198,4.6878885 9.3062085,1.3062408 7.8666813,1.5189777 Z M 5.4547319,2.6401822 c -0.063104,0.00763 -0.129887,0.028025 -0.2021621,0.061994 C 4.0959591,3.2457973 5.077375,5.4886252 5.725318,5.3378034 6.3332519,5.1966299 6.4012984,2.5257528 5.4547319,2.6401822 Z M 3.6585993,4.395496 C 3.558038,4.391646 3.4493706,4.430188 3.3335848,4.5212552 2.4077142,5.2499117 3.6457075,7.01009 4.1904412,6.7370954 4.6670831,6.4981214 4.3625281,4.4224787 3.6585993,4.395496 Z M 8.945916,5.7416499 C 6.9609726,5.7034019 4.3430678,6.8381735 3.8965285,9.1158909 3.4129098,11.580774 5.8867079,15.000001 8.4685024,15 9.7386125,15 11.203526,13.695011 11.477608,12.040233 11.686936,10.778373 9.0147181,11.283202 9.1107559,12.118173 9.2258142,13.118996 8.4660386,13.613571 7.7220577,12.968375 5.3536458,10.914518 11.643398,9.890211 11.228793,7.0842614 11.099742,6.2108502 10.136882,5.764599 8.945916,5.7416499 Z"
-     id="path4"
-     inkscape:connector-curvature="0" />
+      }</style>
+ </defs>
+ <path id="path4" class="ColorScheme-Text" d="m11.945691 1c-2.5570578 0-3.0371238 4.1482794-1.598635 4.1482794 1.438279 0 4.155795-4.1482794 1.598635-4.1482794zm-4.0790097 0.5189777c-1.4390074 0.212737-0.9326182 3.0623648-0.1663949 3.1156378 0.7659116 0.053273 1.6059221-3.3283747 0.1663949-3.1156378zm-2.4119494 1.1212045c-0.063104 0.00763-0.129887 0.028025-0.2021621 0.061994-1.1566107 0.5436211-0.1751948 2.786449 0.4727482 2.6356272 0.6079339-0.1411735 0.6759804-2.8120506-0.2705861-2.6976212zm-1.7961326 1.7553138c-0.1005613-0.00385-0.2092287 0.034692-0.3250145 0.1257592-0.9258706 0.7286565 0.3121227 2.4888348 0.8568564 2.2158402 0.4766419-0.238974 0.1720869-2.3146167-0.5318419-2.3415994zm5.2873167 1.3461539c-1.9849434-0.038248-4.6028482 1.0965236-5.0493875 3.374241-0.4836187 2.4648831 1.9901794 5.8841101 4.5719739 5.8841091 1.2701101 0 2.7350236-1.304989 3.0091056-2.959767 0.209328-1.26186-2.4628899-0.757031-2.3668521 0.07794 0.1150583 1.000823-0.6447173 1.495398-1.3886982 0.850202-2.3684119-2.053857 3.9213403-3.078164 3.5067353-5.8841136-0.129051-0.8734112-1.091911-1.3196624-2.282877-1.3426115z" style="color:#dfdfdf;fill:#dfdfdf"/>
 </svg>
