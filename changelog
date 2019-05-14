@@ -61,3 +61,13 @@
 ### Added more mimetype icons, Apps : openra-ra, openra-d2k, openra-cnc.
 
 ### Fixed missing symlink.
+
+
+## v1.8 (May 14 2019)
+### Redesigned folder icons.
+
+### Added new icons/redesigned into new icons :
+
+### Apps : wps-office-wpsmain, wps-office-wppmain, wps-office-etmain, dnfdragora, krename, wine, wine-winetricks, kcolorchooser, applications-utilities, applications-office, applications-development, applications-graphics, applications-games, onboard-settings, administration, opera, opera-next, opera-widget,  sublime-text, preferences-desktop-mouse, system-error, preferences-desktop-theme, remote-desktop, preferences-desktop-remote-desktop, knetattach, chrome-remote-desktop, bittorrent, nepomuk, etc (+200).
+
+### Optimized svg files to reduce file sizes.
