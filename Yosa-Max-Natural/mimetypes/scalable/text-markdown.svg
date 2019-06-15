@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg8" width="64" height="64" version="1.1" viewBox="0 0 16.933333 16.933334" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs2">
+  <linearGradient id="linearGradient1455" x1="130.16949" x2="130.16949" y1="6.7796607" y2="47.728813" gradientTransform="matrix(.34001978 0 0 .34055744 -36.83406 -298.44484)" gradientUnits="userSpaceOnUse">
+   <stop id="stop1493" style="stop-color:#a8a8a8" offset="0"/>
+   <stop id="stop1495" style="stop-color:#d0d0d0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1468" x1="130.16949" x2="130.16949" y1="6.7796607" y2="47.728813" gradientTransform="matrix(.34001978 0 0 .34055744 -35.214053 -297.09271)" gradientUnits="userSpaceOnUse">
+   <stop id="stop1449" style="stop-color:#d3d7da" offset="0"/>
+   <stop id="stop1451" style="stop-color:#eeeeee" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g id="layer1" transform="translate(0,-280.06665)">
+  <rect id="rect1243" transform="scale(1,-1)" x="2.1166668" y="-296.47083" width="11.079997" height="14.522863" style="fill:url(#linearGradient1455);paint-order:stroke fill markers"/>
+  <rect id="rect1466" transform="scale(1,-1)" x="3.7366703" y="-295.11868" width="11.079997" height="14.522863" style="fill:url(#linearGradient1468);paint-order:stroke fill markers"/>
+  <text id="text879" x="-49.787861" y="286.63406" style="fill:#000000;font-family:sans-serif;font-size:10.583334px;letter-spacing:0px;line-height:1.25;stroke-width:.26458335;word-spacing:0px" xml:space="preserve"><tspan id="tspan877" x="-49.787861" y="295.99783" style="stroke-width:.26458335"/></text>
+  <text id="text879-5" transform="scale(.99364348 1.0063972)" x="-8.1818352" y="286.07327" style="fill:#000000;font-family:sans-serif;font-size:13.118679px;letter-spacing:0px;line-height:1.25;stroke-width:.26458335;word-spacing:0px" xml:space="preserve"><tspan id="tspan877-3" x="-8.1818352" y="297.68024" style="stroke-width:.26458335"/></text>
+  <text id="text879-1" transform="scale(.99364346 1.0063972)" x="-40.819176" y="287.59018" style="fill:#000000;font-family:sans-serif;font-size:13.118679px;letter-spacing:0px;line-height:1.25;stroke-width:.26458335;word-spacing:0px" xml:space="preserve"><tspan id="tspan877-2" x="-40.819176" y="299.19714" style="stroke-width:.26458335"/></text>
+  <g id="g1197" transform="translate(15.755965,2.9240146e-6)">
+   <g id="g984">
+    <g id="g898">
+     <rect id="rect856" x="-9.3897123" y="286.53433" width=".79374999" height="2.6458333" style="fill:#4d4d4d;paint-order:stroke fill markers"/>
+     <rect id="rect894" transform="rotate(-45)" x="-209.48238" y="196.5321" width=".79374999" height="1.5875" style="fill:#4d4d4d;paint-order:stroke fill markers"/>
+    </g>
+    <g id="g904" transform="matrix(-1,0,0,1,-16.069394,0)">
+     <rect id="rect900" x="-9.3897123" y="286.53433" width=".79374999" height="2.6458333" style="fill:#4d4d4d;paint-order:stroke fill markers"/>
+     <rect id="rect902" transform="rotate(-45)" x="-209.48238" y="196.5321" width=".79374999" height="1.5875" style="fill:#4d4d4d;paint-order:stroke fill markers"/>
+    </g>
+   </g>
+   <g id="g1185" transform="translate(-.71374533)">
+    <rect id="rect1146" x="-4.5616298" y="286.53433" width=".79374999" height="1.9186349" style="fill:#4d4d4d;paint-order:stroke fill markers"/>
+    <path id="rect1172" d="m-2.8551338 287.87055-0.467722-0.46773-0.841899 0.8419-0.841899-0.8419-0.467722 0.46773 1.309621 1.30962z" style="fill:#4d4d4d;paint-order:stroke fill markers"/>
+   </g>
+  </g>
+ </g>
+</svg>

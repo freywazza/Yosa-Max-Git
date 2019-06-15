@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg5453" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs5455">
+  <linearGradient id="linearGradient829" x1="32" x2="32" y1="58" y2="15" gradientUnits="userSpaceOnUse">
+   <stop id="stop823" style="stop-color:#f5ce46" offset="0"/>
+   <stop id="stop825" style="stop-color:#f8d86c" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path id="folderTab-3" d="m4 6c-0.55122 0.05512-1 0.446-1 1v42h58v-38c0-1-1-1-1-1h-27c-2-4-6-4-6-4h-22z" style="fill-rule:evenodd;fill:#d9b432"/>
+ <path id="folderPaper-6" d="m7 13h50v32h-50z" style="color-rendering:auto;color:#000000;fill:#fffbec;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;white-space:normal"/>
+ <path id="folderFront-2" d="m39 15s-4 0-6 4h-31s-0.1319813 0.01691-0.2890625 0.05859c-0.045956 0.01404-0.091922 0.02277-0.1347656 0.04297-0.2742277 0.109838-0.5761719 0.34321-0.5761719 0.89844v37c0 0.55397 0.44603 1 1 1h60c0.55397 0 1-0.44603 1-1v-41c0-0.55397-0.44603-1-1-1h-1z" style="fill-rule:evenodd;fill:url(#linearGradient829)"/>
+</svg>

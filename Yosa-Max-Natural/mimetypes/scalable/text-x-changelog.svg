@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg8" width="64" height="64" version="1.1" viewBox="0 0 16.933333 16.933334" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs2">
+  <linearGradient id="linearGradient1455" x1="130.16949" x2="130.16949" y1="6.7796607" y2="47.728813" gradientTransform="matrix(.34001978 0 0 .34055744 -36.83406 -298.44484)" gradientUnits="userSpaceOnUse">
+   <stop id="stop1493" style="stop-color:#a8a8a8" offset="0"/>
+   <stop id="stop1495" style="stop-color:#d0d0d0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1468" x1="130.16949" x2="130.16949" y1="5.8645244" y2="47.728813" gradientTransform="matrix(.34001978 0 0 .34055744 -35.214053 -297.09271)" gradientUnits="userSpaceOnUse">
+   <stop id="stop1449" style="stop-color:#293e53" offset="0"/>
+   <stop id="stop1451" style="stop-color:#3f5f7e" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g id="layer1" transform="translate(0,-280.06665)">
+  <rect id="rect1243" transform="scale(1,-1)" x="2.1166668" y="-296.47083" width="11.079997" height="14.522863" style="fill:url(#linearGradient1455);paint-order:stroke fill markers"/>
+  <rect id="rect1466" transform="scale(1,-1)" x="3.7366703" y="-295.11868" width="11.079997" height="14.522863" style="fill:url(#linearGradient1468);paint-order:stroke fill markers"/>
+  <g id="g900" transform="matrix(.26458334 0 0 .28188398 2.8614404 280.92965)" style="stroke-width:.96882659">
+   <g id="g877" transform="translate(0 -.28398924)" style="stroke-width:.96882659">
+    <path id="path907" d="m14.246532 14.89774h20v1h-20z" style="fill:#00ffff;stroke-width:.81032687"/>
+    <path id="path913" d="m14.246532 17.721088h8v1h-8z" style="fill:#00ffff;stroke-width:.81032687"/>
+   </g>
+   <g id="g883" transform="translate(0,7.03413)" style="fill:#ffccaa;stroke-width:.96882659">
+    <path id="path879" d="m14.246532 14.89774h20v1h-20z" style="fill:#ffccaa;stroke-width:.81032687"/>
+    <path id="path881" d="m14.246532 17.721088h8v1h-8z" style="fill:#ffccaa;stroke-width:.81032687"/>
+   </g>
+   <g id="g889" transform="translate(0,14.665162)" style="fill:#2dea43;stroke-width:.96882659">
+    <path id="path885" d="m14.246532 14.89774h20v1h-20z" style="fill:#2dea43;stroke-width:.81032687"/>
+    <path id="path887" d="m14.246532 17.721088h8v1h-8z" style="fill:#2dea43;stroke-width:.81032687"/>
+   </g>
+  </g>
+ </g>
+</svg>

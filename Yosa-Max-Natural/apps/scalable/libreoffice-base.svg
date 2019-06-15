@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg28" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs32">
+  <linearGradient id="linearGradient891" x1="-31.749992" x2="-31.749992" y1="47.293053" y2="3.2930527" gradientTransform="translate(55.75,-1.2929688)" gradientUnits="userSpaceOnUse">
+   <stop id="stop885" style="stop-color:#a058be" offset="0"/>
+   <stop id="stop887" style="stop-color:#cf90e9" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path id="rect883" d="m7 2v44h34v-29.171875l-13.414062-13.414063-1.414063-1.4140624z" style="fill:url(#linearGradient891);paint-order:stroke fill markers"/>
+ <path id="rect893" d="m29 2 12 12v-12z" style="fill:#a45fc1;paint-order:stroke fill markers"/>
+ <path id="ellipse849" d="m24 16a7 2.4212191 0 0 0-7 2.421875 7 2.4212191 0 0 0 7 2.419922 7 2.4212191 0 0 0 7-2.419922 7 2.4212191 0 0 0-7-2.421875zm-7 3.359375v2.78125a6.9999999 2.421219 0 0 0 7 2.421875 6.9999999 2.421219 0 0 0 7-2.421875v-2.78125a6.9999999 2.421219 0 0 1-7 2.421875 6.9999999 2.421219 0 0 1-7-2.421875zm0 3.71875v2.78125a6.9999999 2.421219 0 0 0 7 2.421875 6.9999999 2.421219 0 0 0 7-2.421875v-2.78125a6.9999999 2.421219 0 0 1-7 2.421875 6.9999999 2.421219 0 0 1-7-2.421875zm0 3.720703v2.779297a6.9999999 2.421219 0 0 0 7 2.421875 6.9999999 2.421219 0 0 0 7-2.421875v-2.779297a6.9999999 2.421219 0 0 1-7 2.419922 6.9999999 2.421219 0 0 1-7-2.419922z" style="fill:#ffffff;paint-order:stroke fill markers"/>
+</svg>

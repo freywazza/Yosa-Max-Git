@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg2" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs4">
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  <style id="current-color-scheme-8" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  <style id="current-color-scheme-7" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  <style id="current-color-scheme-2" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  <style id="current-color-scheme-8-8" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  <style id="current-color-scheme-7-2" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  <linearGradient id="linearGradient4181-1" x1="399.9939" x2="399.9939" y1="545.13873" y2="518.13873" gradientTransform="matrix(1.4375643,0,0,1.4375643,-103.31879,-315.65452)" gradientUnits="userSpaceOnUse">
+   <stop id="stop4233" style="stop-color:#1a85f2" offset="0"/>
+   <stop id="stop4235-7" style="stop-color:#20bafa" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g id="layer1" transform="translate(-525.84155,-416.14999)">
+  <g id="g4471" transform="matrix(1.0931221,0,0,1.0931221,33.310366,-50.486049)">
+   <circle id="path3377-5" cx="472.52835" cy="448.8392" r="20.125839" style="fill:url(#linearGradient4181-1)"/>
+   <path id="path5692_1_" d="m473.61086 437.35765-4.10901 0.3951v16.92773l4.0651-0.6146v-7.2171l5.46989 8.00727 4.28461-1.36087-5.60158-7.70001 5.6455-7.26099-4.37241-1.00092-5.42601 7.26098 0.044-7.43659zm-9.31551 4.12657c-0.0466 3e-3 -0.0966 0.0177-0.13183 0.0525l-1.61549 1.61549c-0.0677 0.068-0.0762 0.17232-0.0247 0.25479l1.88766 3.11687c-0.33514 0.56343-0.60735 1.16785-0.79896 1.80865l-3.46808 0.71997c-0.0966 0.0211-0.16669 0.1117-0.16669 0.21075v2.28278c0 0.0966 0.0733 0.17938 0.16669 0.20193l3.36271 0.81654c0.17974 0.74186 0.45762 1.4518 0.82532 2.0984l-1.94915 2.96762c-0.0543 0.0828-0.0437 0.19348 0.0247 0.26326l1.6155 1.61552c0.068 0.0677 0.17232 0.0765 0.25443 0.0247l3.05544-1.85256c0.59928 0.34606 1.24807 0.62317 1.93157 0.80772l0.71118 3.42422c0.0211 0.0969 0.10322 0.16669 0.20192 0.16669h2.28282c0.0959 0 0.17902-0.0645 0.20194-0.15788l0.84285-3.44173c0.70494-0.18994 1.36954-0.47219 1.98426-0.83409l3.01154 1.97549c0.0831 0.0542 0.19312 0.0437 0.26325-0.0247l1.60675-1.6155c0.0684-0.068 0.0853-0.17233 0.0352-0.25445l-1.09748-1.80868-0.36 0.11414c-0.0517 0.0177-0.10954-7e-3 -0.14059-0.0525 0 0-0.69327-1.01981-1.59794-2.34424-1.08198 2.11715-3.2885 3.56465-5.82991 3.56465-3.61128 0-6.54105-2.92977-6.54105-6.54105 0-2.65638 1.5885-4.93792 3.86317-5.96157v-1.68577c-0.41398 0.14485-0.81394 0.31964-1.19407 0.52682-7.1e-4 -4.6e-4 7e-4 -7e-3 0-0.0101l-3.08174-2.01936c-0.0415-0.0282-0.0852-0.0318-0.13182-0.0247z" style="fill-opacity:.85;fill:#ffffff"/>
+  </g>
+ </g>
+</svg>

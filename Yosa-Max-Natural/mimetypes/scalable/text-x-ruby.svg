@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg33" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs37">
+  <linearGradient id="linearGradient1455" x1="130.16949" x2="130.16949" y1="6.7796607" y2="47.728813" gradientTransform="matrix(1.2851141,0,0,1.2871462,-139.21534,-69.460853)" gradientUnits="userSpaceOnUse">
+   <stop id="stop1493" style="stop-color:#a8a8a8" offset="0"/>
+   <stop id="stop1495" style="stop-color:#d0d0d0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1468" x1="130.16949" x2="130.16949" y1="6.0678883" y2="47.728813" gradientTransform="matrix(1.2851141,0,0,1.2871462,-133.09249,-64.350403)" gradientUnits="userSpaceOnUse">
+   <stop id="stop1449" style="stop-color:#ed1e1b" offset="0"/>
+   <stop id="stop1451" style="stop-color:#ec5452" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect id="rect1243" transform="scale(1,-1)" x="8" y="-62.000011" width="41.877151" height="54.889561" style="fill:url(#linearGradient1455);paint-order:stroke fill markers"/>
+ <rect id="rect1466" transform="scale(1,-1)" x="14.122849" y="-56.889549" width="41.877151" height="54.889561" style="fill:url(#linearGradient1468);paint-order:stroke fill markers"/>
+ <text id="text879" x="-126.0047" y="23.54694" style="fill:#000000;font-family:sans-serif;font-size:40px;letter-spacing:0px;line-height:1.25;word-spacing:0px" xml:space="preserve"><tspan id="tspan877" x="-126.0047" y="58.937565"/></text>
+ <text id="text879-5" transform="scale(.99364346 1.0063972)" x="31.644133" y="28.163996" style="fill:#000000;font-family:sans-serif;font-size:49.582409px;letter-spacing:0px;line-height:1.25;word-spacing:0px" xml:space="preserve"><tspan id="tspan877-3" x="31.644133" y="72.032806"/></text>
+ <text id="text879-1" transform="scale(.99364346 1.0063972)" x="-91.709587" y="33.897156" style="fill:#000000;font-family:sans-serif;font-size:49.582409px;letter-spacing:0px;line-height:1.25;word-spacing:0px" xml:space="preserve"><tspan id="tspan877-2" x="-91.709587" y="77.765968"/></text>
+ <path id="path23" d="m41.636478 20.359086-2.896379 4.420459-2.993635-4.420459zm-3.356553 5.43139h-6.425503l3.212409 12.336126zm-6.211054-0.724185h5.99613l-2.998222-4.427648zm-0.67457-0.286746 2.993266-4.420459h-5.889697zm2.991789 13.579541-3.273008-12.56861h-7.051657zm-10.314644-13.292795h6.650764l-2.89717-4.421524zm18.232851-4.413537-2.89216 4.413537h6.639319zm-3.283083 5.137722-3.273325 12.567545 10.313536-12.567545z" style="fill:#ffffff;stroke-width:.05916547"/>
+</svg>

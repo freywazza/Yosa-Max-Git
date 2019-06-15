@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg5453" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs5455">
+  <linearGradient id="linearGradient833" x1="32.010437" x2="31.962496" y1="57.89262" y2="15.119835" gradientTransform="translate(0,-3.8146973e-6)" gradientUnits="userSpaceOnUse">
+   <stop id="stop827" style="stop-color:#ffca28" offset="0"/>
+   <stop id="stop829" style="stop-color:#ffd351" offset="1"/>
+  </linearGradient>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#4d4d4d;
+      }</style>
+ </defs>
+ <path id="folderTab-3" d="m4 6c-0.55122 0.05512-1 0.446-1 1v42h58v-38c0-1-1-1-1-1h-27c-2-4-6-4-6-4h-22z" style="fill-rule:evenodd;fill:#ffb437"/>
+ <path id="folderPaper-6" d="m7 13h50v32h-50z" style="color-rendering:auto;color:#000000;fill:#fffbec;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;white-space:normal"/>
+ <path id="folderFront-2" d="m39 14.999996s-4 0-6 4h-31s-0.1319813 0.01691-0.2890625 0.05859c-0.045956 0.01404-0.091922 0.02277-0.1347656 0.04297-0.2742277 0.109838-0.5761719 0.34321-0.5761719 0.89844v37c0 0.55397 0.44603 1 1 1h60c0.55397 0 1-0.44603 1-1v-41c0-0.55397-0.44603-1-1-1h-1z" style="fill-rule:evenodd;fill:url(#linearGradient833)"/>
+ <path id="path4" class="ColorScheme-Text" d="m28.522217 29 6.955568 11.367628h6.944822l-6.955565-11.367628h-6.944783zm-0.872803 1.422835-6.649414 10.89335 3.477783 5.683815 6.641358-10.893351zm2.049072 10.89335-3.477784 5.683815h13.301514l3.477784-5.683815z" style="color:#4d4d4d;fill:#f9f9f9"/>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg21" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs25">
+  <linearGradient id="linearGradient829" x1="32" x2="32" y1="58" y2="15" gradientTransform="matrix(.70967742 0 0 .70967742 1.290323 1.2903226)" gradientUnits="userSpaceOnUse">
+   <stop id="stop823" style="stop-color:#cd2b2b" offset="0"/>
+   <stop id="stop825" style="stop-color:#da4646" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path id="folderTab" d="m4.1290327 5.5483871c-0.3911884 0.0391174-0.7096774 0.3165161-0.7096774 0.7096774v29.806452h41.161291v-26.967742c0-0.7096774-0.709678-0.7096774-0.709678-0.7096774h-19.16129c-1.419355-2.8387097-4.258065-2.8387097-4.258065-2.8387097h-15.612903z" style="fill-rule:evenodd;fill:#9a2020"/>
+ <path id="folderPaper-4" d="m6.2580649 10.516129h35.483871v22.709678h-35.483871z" style="color-rendering:auto;color:#000000;fill:#ffffff;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;white-space:normal"/>
+ <path id="folderFront-8" d="m28.967742 11.935484s-2.838709 0-4.258064 2.83871h-22s-0.093663 0.012-0.2051411 0.04158c-0.032614 0.01-0.065235 0.01616-0.09564 0.03049-0.1946151 0.07795-0.4088962 0.243569-0.4088962 0.637603v26.258065c0 0.39314 0.3165374 0.709677 0.7096774 0.709677h42.580645c0.39314 4e-6 0.709677-0.316533 0.709677-0.709673v-29.096775c0-0.39314-0.316537-0.709677-0.709677-0.709677h-0.709677z" style="fill-rule:evenodd;fill:url(#linearGradient829)"/>
+ <path id="path17" d="m19.243124 20.870656-3.243124 14.386069h2.635055l1.530669-6.438253h7.192726l-6.736104 6.030248 1.756336 2.022185 0.89946-0.463467c1.700949-0.874536 2.414313-0.363187 3.704794-0.0049 1.255467 0.348411 2.435732 0.721303 4.884384-0.690164l-0.486284-2.491238c-2.67235 1.900089-3.517777 0.20484-5.42113 0.13754l5.448699-4.610506 0.591395-2.461575h-11.414331l0.734782-2.954139h7.481346l0.513067-2.461392h-10.072158z" style="fill:#ffffff"/>
+</svg>

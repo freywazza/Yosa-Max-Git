@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg4" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs8">
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#dfdfdf;
+      }</style>
+  <style id="current-color-scheme-5" type="text/css">.ColorScheme-Text {
+        color:#dfdfdf;
+      }</style>
+ </defs>
+ <path id="rect817" d="m2.9999996 3.0000001v16h16v-16zm1 1h14v14h-14z" style="fill:#dfdfdf;paint-order:stroke fill markers"/>
+ <rect id="rect824" x="2.9999998" y="6" width="16" height="2" style="fill:#dfdfdf;paint-order:stroke fill markers"/>
+ <path id="rect834" d="m1.9999999 2.0000001v18h18v-18zm2 2h14v14h-14z" style="fill:#dfdfdf;paint-order:stroke fill markers"/>
+ <path id="path855" transform="matrix(.44402318 -.11897565 .11897565 .44402318 17.73172 6.3038285)" d="m-13.419293 14.080708-3.508657-1.324525-2.92763 2.343933 0.175464-3.746232-3.133901-2.0600266 3.6171-0.9907736 0.990773-3.6170995 2.060027 3.1339003 3.746232-0.1754637-2.343933 2.9276301z" style="fill:none;paint-order:stroke fill markers;stroke-width:2.1753952;stroke:#dfdfdf"/>
+</svg>

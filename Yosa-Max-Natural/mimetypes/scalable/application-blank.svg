@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg8" width="64" height="64" version="1.1" viewBox="0 0 16.933333 16.933334" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs2">
+  <linearGradient id="linearGradient1455" x1="130.16949" x2="130.16949" y1="6.7796607" y2="47.728813" gradientTransform="matrix(.34001978 0 0 .34055744 -36.83406 -298.44484)" gradientUnits="userSpaceOnUse">
+   <stop id="stop1493" style="stop-color:#a8a8a8" offset="0"/>
+   <stop id="stop1495" style="stop-color:#d0d0d0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1468" x1="130.16949" x2="130.16949" y1="6.7796607" y2="47.728813" gradientTransform="matrix(.34001978 0 0 .34055744 -35.214053 -297.09271)" gradientUnits="userSpaceOnUse">
+   <stop id="stop1449" style="stop-color:#d3d7da" offset="0"/>
+   <stop id="stop1451" style="stop-color:#eeeeee" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g id="layer1" transform="translate(0,-280.06665)">
+  <rect id="rect1243" transform="scale(1,-1)" x="2.1166668" y="-296.47083" width="11.079997" height="14.522863" style="fill:url(#linearGradient1455);paint-order:stroke fill markers"/>
+  <rect id="rect1466" transform="scale(1,-1)" x="3.7366703" y="-295.11868" width="11.079997" height="14.522863" style="fill:url(#linearGradient1468);paint-order:stroke fill markers"/>
+ </g>
+</svg>

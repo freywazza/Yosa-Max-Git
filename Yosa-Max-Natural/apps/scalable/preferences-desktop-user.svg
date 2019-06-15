@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg22" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs26">
+  <linearGradient id="linearGradient888" x1="18" x2="18" y1="34" y2="11.216492" gradientTransform="matrix(.77225863 0 0 .71398316 5.6495793 7.3599866)" gradientUnits="userSpaceOnUse">
+   <stop id="stop882" style="stop-color:#e4e4e4" offset="0"/>
+   <stop id="stop884" style="stop-color:#ffffff;stop-opacity:.99215686" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient845" x1="31" x2="31" y1="36" y2="13" gradientTransform="matrix(.77225863 0 0 .71398316 5.6495793 7.3599866)" gradientUnits="userSpaceOnUse">
+   <stop id="stop839" style="stop-color:#424242" offset="0"/>
+   <stop id="stop841" style="stop-color:#777777" offset="1"/>
+  </linearGradient>
+ </defs>
+ <linearGradient id="b" x1="399.9939" x2="399.9939" y1="545.13873" y2="518.13873" gradientTransform="matrix(1.6428584,0,0,1.6428584,-634.08211,-849.66872)" gradientUnits="userSpaceOnUse">
+  <stop id="stop7" stop-color="#197ff1" offset="0"/>
+  <stop id="stop9" stop-color="#21c6fb" offset="1"/>
+ </linearGradient>
+ <path id="circle12" d="M 46.999895,23.999949 A 22.999949,22.999949 0 0 1 23.999947,46.999897 22.999949,22.999949 0 0 1 0.99999809,23.999949 22.999949,22.999949 0 0 1 23.999947,1 22.999949,22.999949 0 0 1 46.999895,23.999949 Z" style="fill:url(#b);stroke-width:2.1357157"/>
+ <path id="path849" d="m28.363334 16.364263a3.2727564 3.6022401 0 0 0-3.273048 3.601988 3.2727564 3.6022401 0 0 0 3.273048 3.60199 3.2727564 3.6022401 0 0 0 3.27305-3.60199 3.2727564 3.6022401 0 0 0-3.27305-3.601988zm0 9.605304c-0.316351 0-0.675504-2.74e-4 -1.05733 0.05996 1.265474 1.008619 2.149353 2.341959 2.149353 4.143054v3.002355h6.54459v-3.002355c0-2.797749-5.094758-4.203018-7.636613-4.203018z" style="fill:url(#linearGradient845);stroke-width:2.1193335"/>
+ <path id="path845" d="m19.636384 22.029422a3.2727564 3.6022401 0 0 0 3.272752-3.60222 3.2727564 3.6022401 0 0 0-3.272752-3.602238 3.2727564 3.6022401 0 0 0-3.272775 3.602238 3.2727564 3.6022401 0 0 0 3.272775 3.60222m0 2.401497c-2.541843 0-7.636437 1.479893-7.636437 4.427057v3.162193h15.272874v-3.162193c0-2.947164-5.094604-4.427057-7.636437-4.427057" style="fill:url(#linearGradient888);stroke-width:2.1193335"/>
+</svg>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg8" width="64" height="64" version="1.1" viewBox="0 0 16.933333 16.933334" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs2">
+  <linearGradient id="linearGradient1455" x1="130.16949" x2="130.16949" y1="6.7796607" y2="47.728813" gradientTransform="matrix(1.2851141,0,0,1.2871462,-139.21535,-69.460817)" gradientUnits="userSpaceOnUse">
+   <stop id="stop1493" style="stop-color:#a8a8a8" offset="0"/>
+   <stop id="stop1495" style="stop-color:#d0d0d0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1468" x1="130.16949" x2="130.16949" y1="6.0432158" y2="48.237221" gradientTransform="matrix(1.2851141,0,0,1.2871462,-203.21534,-64.350405)" gradientUnits="userSpaceOnUse">
+   <stop id="stop998" style="stop-color:#c4ec23" offset="0"/>
+   <stop id="stop1000" style="stop-color:#d6f263" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g id="layer1" transform="translate(0,-280.06665)">
+  <g id="g882" transform="matrix(.26458334 0 0 .26458334 1.2232633e-7 280.06665)">
+   <rect id="rect1243" transform="scale(1,-1)" x="7.9999981" y="-62.000008" width="41.877155" height="54.889561" style="fill:url(#linearGradient1455);paint-order:stroke fill markers"/>
+   <rect id="rect1466" transform="scale(-1)" x="-56" y="-56.889549" width="41.877155" height="54.889561" style="fill:url(#linearGradient1468);paint-order:stroke fill markers"/>
+   <g id="g860" transform="matrix(1.1224282,0,0,1.1224282,-5.5205479,-5.0088361)" style="stroke-width:.89092559">
+    <g id="g841" transform="matrix(.51549649 0 0 .51549649 47.474948 15.087319)" style="fill:#ffffff;stroke-width:1.7282865">
+     <path id="path998" d="m-29.685743 29.628562-0.647004 2.414652-1.941362 7.24526-2.588015 9.658604 0.0042 0.0011 0.805303-0.432979 1.123742-0.601821 0.0018-0.0066 2.904312-1.56547 1.732475 2.807893-0.0018 0.0066 0.672279 1.083063 0.480924 0.777622 0.0042 0.0011 2.588015-9.658604 1.941362-7.24526 0.647004-2.414652z" style="fill:#ffffff"/>
+     <path id="path837" d="m-14.230873 29.628562 0.647004 2.414652 1.941362 7.24526 2.588015 9.658604-0.0042 0.0011-0.805303-0.432979-1.123742-0.601821-0.0018-0.0066-2.904312-1.56547-1.732475 2.807893 0.0018 0.0066-0.672279 1.083063-0.480924 0.777622-0.0042 0.0011-2.588015-9.658604-1.941362-7.24526-0.647004-2.414652z" style="fill:#ffffff"/>
+    </g>
+    <circle id="path835" cx="36.155518" cy="26.281704" r="6.2772131" style="fill:#ffffff;paint-order:stroke fill markers"/>
+   </g>
+  </g>
+ </g>
+</svg>

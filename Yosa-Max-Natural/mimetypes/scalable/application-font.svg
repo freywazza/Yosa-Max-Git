@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg27" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs31">
+  <linearGradient id="linearGradient1455" x1="130.16949" x2="130.16949" y1="6.7796607" y2="47.728813" gradientTransform="matrix(1.2851141,0,0,1.2871462,-139.21534,-69.460853)" gradientUnits="userSpaceOnUse">
+   <stop id="stop1493" style="stop-color:#a8a8a8" offset="0"/>
+   <stop id="stop1495" style="stop-color:#d0d0d0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient940" x1="38.237289" x2="38.237289" y1="-56.40678" y2="-2.1694915" gradientTransform="translate(-3.7966118 -.27117348)" gradientUnits="userSpaceOnUse">
+   <stop id="stop934" style="stop-color:#cc9964" offset="0"/>
+   <stop id="stop936" style="stop-color:#d9b48d" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect id="rect1243" transform="scale(1,-1)" x="7.9999981" y="-62.000011" width="41.877155" height="54.889561" style="fill:url(#linearGradient1455);paint-order:stroke fill markers"/>
+ <rect id="rect1466" transform="scale(1,-1)" x="14.122847" y="-56.889553" width="41.877155" height="54.889561" style="fill:url(#linearGradient940);paint-order:stroke fill markers"/>
+ <circle id="circle31" cx="-127.83035" cy="27.230078" r="0" style="fill:url(#b);stroke-width:1.6041062;stroke:url(#a-6)"/>
+ <circle id="circle33" cx="-127.83044" cy="27.22998" r="0" style="fill:url(#d);stroke-width:1.6041062"/>
+ <text id="text847" x="-189.79759" y="37.74065" style="fill:#000000;font-family:'xos4 Terminus';font-size:40px;letter-spacing:0px;line-height:1.25;word-spacing:0px" xml:space="preserve"><tspan id="tspan845" x="-189.79759" y="73.131271" style="font-family:FZYaoTi-M06"/></text>
+ <text id="text851" x="-200.37386" y="55.435566" style="fill:#000000;font-family:'xos4 Terminus';font-size:40px;letter-spacing:0px;line-height:1.25;word-spacing:0px" xml:space="preserve"><tspan id="tspan849" x="-200.37386" y="90.826187"/></text>
+ <g id="text876" style="fill:#ffffff" aria-label="A">
+  <path id="path878" d="m40.421424 38.778107h5.493334l-8.266667-18.666667h-5.2l-8.24 18.666667h5.386667l1.466667-3.626667h7.893333zm-7.813333-7.52 2.4-5.973333 2.4 5.973333z"/>
+ </g>
+</svg>

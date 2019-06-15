@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg33" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title id="title2">drive-harddisk-64px</title>
+ <desc id="desc4">Created with Sketch.</desc>
+ <defs id="defs11">
+  <linearGradient id="linearGradient895" x1="32" x2="32" y1="51.932205" y2="5.5593219" gradientUnits="userSpaceOnUse">
+   <stop id="stop889" style="stop-color:#53e418" offset="0"/>
+   <stop id="stop891" style="stop-color:#80ed54" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g id="g908">
+  <path id="Rectangle-1" d="M 9,6.4973661 C 9,5.6703936 9.6680024,5 10.50435,5 h 42.991299 c 0.83083,0 1.50435,0.6644068 1.50435,1.4973661 L 55,52 H 9 Z" style="fill-rule:evenodd;fill:url(#linearGradient895)"/>
+  <path id="Rectangle-3" d="M 9,46.504739 C 9,45.673695 9.6680024,45 10.50435,45 h 42.9913 C 54.32648,45 55,45.668315 55,46.504739 V 53 H 9 Z" style="fill-rule:evenodd;fill:#ffffff"/>
+  <path id="path16" d="M 9,51.506398 C 9,50.674437 9.6680024,50 10.50435,50 h 42.991299 c 0.830829,0 1.504349,0.676463 1.504349,1.506398 v 5.987204 C 54.999998,58.325563 54.331996,59 53.495649,59 H 10.50435 C 9.6735202,59 9,58.323537 9,57.493602 Z" style="fill-rule:evenodd;fill:#dcdddd"/>
+  <g id="g887" style="fill:#4d4d4d">
+   <rect id="Rectangle-path" x="36" y="52.994667" width="1" height="3" style="fill-rule:evenodd;fill:#4d4d4d"/>
+   <rect id="rect19" x="39" y="52.994667" width="1" height="3" style="fill-rule:evenodd;fill:#4d4d4d"/>
+   <rect id="rect21" x="42" y="52.994667" width="1" height="3" style="fill-rule:evenodd;fill:#4d4d4d"/>
+   <rect id="rect23" x="45" y="52.994667" width="1" height="3" style="fill-rule:evenodd;fill:#4d4d4d"/>
+   <rect id="rect25" x="48" y="52.994667" width="1" height="3" style="fill-rule:evenodd;fill:#4d4d4d"/>
+   <rect id="rect27" x="51" y="52.994667" width="1" height="3" style="fill-rule:evenodd;fill:#4d4d4d"/>
+   <path id="Oval" d="m14.5 56c0.828427 0 1.5-0.671573 1.5-1.5s-0.671573-1.5-1.5-1.5-1.5 0.671573-1.5 1.5 0.671573 1.5 1.5 1.5z" style="fill-rule:evenodd;fill:#4d4d4d"/>
+  </g>
+ </g>
+</svg>

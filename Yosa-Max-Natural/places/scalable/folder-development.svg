@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="linearGradient833" x1="32.010437" x2="31.962496" y1="57.89262" y2="15.119835" gradientTransform="translate(0,-3.8146973e-6)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#ffca28" offset="0"/>
+   <stop style="stop-color:#ffd351" offset="1"/>
+  </linearGradient>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#4d4d4d;
+      }</style>
+  <style type="text/css">.ColorScheme-Text {
+        color:#4d4d4d;
+      }</style>
+ </defs>
+ <path d="m4 6c-0.55122 0.05512-1 0.446-1 1v42h58v-38c0-1-1-1-1-1h-27c-2-4-6-4-6-4h-22z" style="fill-rule:evenodd;fill:#ffb437"/>
+ <path d="m7 13h50v32h-50z" style="color-rendering:auto;color:#000000;fill:#fffbec;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;white-space:normal"/>
+ <path d="m39 14.999996s-4 0-6 4h-31s-0.1319813 0.01691-0.2890625 0.05859c-0.045956 0.01404-0.091922 0.02277-0.1347656 0.04297-0.2742277 0.109838-0.5761719 0.34321-0.5761719 0.89844v37c0 0.55397 0.44603 1 1 1h60c0.55397 0 1-0.44603 1-1v-41c0-0.55397-0.44603-1-1-1h-1z" style="fill-rule:evenodd;fill:url(#linearGradient833)"/>
+ <path d="m29.2266 48-0.24464-2.897599a8.7201481 8.6434391 0 0 1-2.5485-1.461041l-2.65886 1.241503-2.7746-4.764889 2.41153-1.659537a8.7201481 8.6434391 0 0 1-0.13318-1.458388 8.7201481 8.6434391 0 0 1 0.12702-1.464089l-2.40518-1.653256 2.7746-4.763637 2.65077 1.236953a8.7201481 8.6434391 0 0 1 2.55468-1.45182l0.24575-2.9042h5.54918l0.24464 2.897598a8.7201481 8.6434391 0 0 1 2.54851 1.461043l2.65694-1.240035 2.7746 4.763637-2.41232 1.660482a8.7201481 8.6434391 0 0 1 0.13479 1.456809 8.7201481 8.6434391 0 0 1-0.12848 1.464669l2.40615 1.654365-2.77459 4.763615-2.65078-1.236941a8.7201481 8.6434391 0 0 1-2.5542 1.450525l-0.24417 2.9042h-5.54918zm2.77458-7.857672a3.170963 3.1430688 0 0 0 3.17097-3.143068 3.170963 3.1430688 0 0 0-3.17097-3.143069 3.170963 3.1430688 0 0 0-3.17095 3.143069 3.170963 3.1430688 0 0 0 3.17095 3.143068z" style="enable-background:new;fill:#f9f9f9;stroke-width:1.4332498"/>
+</svg>

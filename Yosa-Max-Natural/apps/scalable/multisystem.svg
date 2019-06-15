@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg87" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs91">
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  <style id="current-color-scheme-8" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  <style id="current-color-scheme-7" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  <style id="current-color-scheme-5" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  <style id="current-color-scheme-8-2" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  <style id="current-color-scheme-7-4" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  <style id="current-color-scheme-56" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  <style id="current-color-scheme-8-29" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  <style id="current-color-scheme-7-1" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  <style id="current-color-scheme-5-0" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  <style id="current-color-scheme-8-2-9" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  <style id="current-color-scheme-7-4-3" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  <linearGradient id="linearGradient1837" x1="12" x2="12" y1="46" y2="24" gradientTransform="matrix(.40839524 -.00029556094 .00031005064 .38930831 13.376077 -57.787202)" gradientUnits="userSpaceOnUse">
+   <stop id="stop15" stop-color="#ec396c" offset="0"/>
+   <stop id="stop17" stop-color="#ff709a" offset="1"/>
+  </linearGradient>
+  <style id="current-color-scheme-2" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  <style id="current-color-scheme-8-3" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  <style id="current-color-scheme-7-7" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  <style id="current-color-scheme-5-2" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  <style id="current-color-scheme-8-2-8" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  <style id="current-color-scheme-7-4-9" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  <linearGradient id="linearGradient2421" x1="35" x2="35" y1="47" y2="28" gradientUnits="userSpaceOnUse">
+   <stop id="stop4795" style="stop-color:#54b60f" offset="0"/>
+   <stop id="stop4797" style="stop-color:#92dc41" offset="1"/>
+  </linearGradient>
+  <style id="current-color-scheme-9" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  <style id="current-color-scheme-8-1" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  <style id="current-color-scheme-7-0" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  <style id="current-color-scheme-5-7" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  <style id="current-color-scheme-8-2-0" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  <style id="current-color-scheme-7-4-4" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  <linearGradient id="linearGradient2505" x1="12.555088" x2="13.005241" y1="23" y2="3" gradientUnits="userSpaceOnUse">
+   <stop id="stop4217" style="stop-color:#00a661" offset="0"/>
+   <stop id="stop4219" style="stop-color:#37ce97" offset="1"/>
+  </linearGradient>
+ </defs>
+ <linearGradient id="e" x1="50.361004" x2="50.400005" y1="205.43413" y2="154.06099" gradientTransform="matrix(.4171904 -.00029556094 .00031672786 .3893083 13.924806 -56.962327)" gradientUnits="userSpaceOnUse">
+  <stop id="stop46" stop-color="#0a80fd" offset="0"/>
+  <stop id="stop48" stop-color="#56c5fa" offset="1"/>
+ </linearGradient>
+ <path id="path61" d="m4.1545449 1.5217417 19.924708-4.6e-6 -7e-6 22.562987-23.094422-4.6e-5 7.39e-6 -19.65345c8.369e-5 -3.1240384 3.0017377-2.9095369 3.1697134-2.9095312z" style="fill-rule:evenodd;fill:url(#linearGradient2505);stroke-width:.41276902"/>
+ <path id="path63" d="m4.0478436 46.525122 19.92471-2.2e-5v-22.562987l-23.094421 1e-5 -1.54e-6 19.653451c-3.26e-6 3.124037 3.0017379 2.909539 3.1697118 2.909533z" style="fill-rule:evenodd;fill:url(#linearGradient1837);stroke-width:.4030084"/>
+ <path id="path65" d="m43.830289 1.5217164-19.924708 2.28e-5 1e-6 22.562987 23.094418-1e-5 1e-5 -19.653451c4.5e-5 -3.1240375-3.001739-2.9095392-3.169708-2.9095331z" style="fill-rule:evenodd;fill:url(#e);stroke-width:.4030084"/>
+ <path id="path67" d="m43.783068 46.524547-19.924709-1.7e-5v-22.562986l23.094418 2.8e-5 1.1e-5 19.653451c3.9e-5 3.124037-3.001739 2.909537-3.169712 2.909531z" style="fill-rule:evenodd;fill:url(#linearGradient2421);stroke-width:.4030084"/>
+ <path id="path79" d="m35.070484 6.747363c-0.591088 1.4186049-0.947583 2.3465293-1.605656 3.722831 0.403466 0.418692 0.898734 0.906249 1.703065 1.456927-0.864716-0.348339-1.454541-0.698036-1.895329-1.060922-0.842209 1.7204-2.161753 4.171002-4.839496 8.880837 2.104618-1.189391 3.735948-1.922668 5.256479-2.202494-0.06528-0.274877-0.102414-0.572215-0.09989-0.882454l2e-3 -0.06601c0.03339-1.319944 0.734803-2.334967 1.565688-2.26604 0.830889 0.0689 1.476747 1.195432 1.443348 2.515375-0.0062 0.248397-0.03491 0.487297-0.08489 0.708915 1.503935 0.288005 3.117931 1.019404 5.194063 2.192708-0.409382-0.737774-0.774777-1.40285-1.123705-2.036257-0.549659-0.417031-1.122942-0.959772-2.292363-1.547372 0.8038 0.204462 1.379305 0.440344 1.827902 0.704015-3.5477-6.466126-3.834875-7.3254167-5.051636-10.120386z" style="fill-rule:evenodd;fill:#f9f9f9;stroke-width:.4865267"/>
+ <path id="path83" d="m13.033548 42.32698c-2.096977-0.738504-3.3425242-1.644885-4.7081682-3.667621-0.3351178-0.557279-0.9513358-1.800953-0.9279982-3.424275-0.0545418-1.618446 0.7808925-3.483315 2.3400552-4.478512 1.5056692-1.050385 3.4487232-1.066043 4.6045912-0.651228 1.192317 0.433297 1.67585 1.155115 1.689486 1.120719-0.03645 9e-3 0.638769 0.564979 0.939798 1.775284 0.33538 1.16333-0.0052 3.091602-1.644384 3.881188-0.753884 0.395563-1.733015 0.46718-2.500797 0.184305-0.767781-0.303153-1.324999-0.968757-1.510651-1.664136-0.404607-1.535277 0.78535-2.386212 1.310315-2.473488 2.135785-0.697176 3.217445 2.574624 0.719533 2.852879 1.138561 0.372204 2.31226-0.771617 2.08911-1.936744-0.0451-1.165383-1.486265-2.322039-3.075845-1.847928-0.415095 0.112175-1.043638 0.39736-1.535564 1.038834-0.504512 0.637624-0.73343 1.636927-0.47121 2.608251 0.255665 0.976714 1.033149 1.911588 2.116119 2.331793 1.093984 0.39505 2.311998 0.282105 3.317876-0.230253 2.147323-1.039861 2.577102-3.573671 2.15047-4.967767-0.376549-1.498313-1.20805-2.184452-1.165046-2.194976-0.01547 0.04081-0.613596-0.849395-2.091732-1.389732-1.44536-0.515952-3.698883-0.479502-5.503221 0.759039-1.8465563 1.159223-2.8469272 3.43711-2.7742922 5.272974-0.024911 1.864357 0.6849198 3.291309 1.0722194 3.925596 1.5612606 2.330766 3.3501288 3.059259 5.5593358 3.175798" style="fill:#f9f9f9;stroke-width:.25944167"/>
+ <path id="path4850" d="m28.325133 28.899614v3.949818h1.565521v0.792775l0.0023 3.108785c0 2.560212 2.142387 4.502694 4.611249 4.502694h7.097666v-7.814354c0-2.562516-2.14017-4.502697-4.611249-4.502697l-2.064791-0.0047zm1.008017 1.050943 5.590825 0.02532v0.0047h2.066599c1.991517 0 3.60594 1.548439 3.60594 3.458786v5.718092c0 0.636085-0.551244 1.050003-1.180914 1.05001h-4.91144c-1.989295 0-3.603231-1.548436-3.603231-3.458782l-0.0045-3.919833c0-0.608562-0.511533-1.023296-0.936698-1.023296h-0.62657zm2.531559 1.162458v5.679208c0 0.60256 0.212398 1.131086 0.625667 1.558371 0.353234 0.361887 0.778094 0.596418 1.255396 0.6494h1.350648v-1.112789l-1.159698-0.0047c-0.563515 0-1.045033-0.569054-1.045033-1.300675v-5.468829zm3.870469 0.932869c-0.466492 0-0.881278 0.179797-1.214315 0.528984-0.332872 0.349002-0.507398 0.784607-0.507398 1.276312v2.485618h1.086118v-2.485618c0-0.188464 0.05905-0.335897 0.188689-0.471827 0.130073-0.13636 0.268064-0.197721 0.446906-0.197721 0.182592 0 0.318356 0.06105 0.448711 0.197721 0.129647 0.13593 0.188692 0.283363 0.188692 0.471827v2.485618h1.086118v-2.485618c0-0.188464 0.05904-0.335897 0.18869-0.471827 0.130357-0.136674 0.266116-0.197721 0.448711-0.197721 0.178848 0 0.316836 0.06136 0.446905 0.197721 0.129644 0.13593 0.188696 0.283363 0.188696 0.471827-0.0023 0.236443 0.0068 2.470625 0.0068 2.470625h1.08251l-3e-3 -2.470625c0-0.491705-0.174519-0.92731-0.507394-1.276312-0.333038-0.349187-0.747827-0.528984-1.214319-0.528984-0.457902 0-0.858285 0.176779-1.182265 0.500401-0.323202-0.323085-0.72101-0.500401-1.178723-0.500401z" style="color:#000000;fill-rule:evenodd;fill:#f9f9f9"/>
+ <path id="path3895" d="m5.8968112 6.9292157v5.2000053h3.9049313v-1.95h4.6859175v-3.2500053h-5.4669093zm9.3718298 0v13h3.904931v-13zm-4.685918 3.9000053v9.099995h3.904937v-9.099995zm-4.6859118 1.949995v7.15h3.9049313v-7.15z" style="color:#000000;enable-background:new;fill:#f9f9f9;stroke-width:.55252433"/>
+</svg>

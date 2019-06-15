@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg12" version="1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs16">
+  <linearGradient id="linearGradient945" x1="-44.92683" x2="2.2711825" y1="-24" y2="-24" gradientTransform="matrix(1.0250001 0 0 1 .0500041 0)" gradientUnits="userSpaceOnUse">
+   <stop id="stop1127" style="stop-color:#1b8df3" offset="0"/>
+   <stop id="stop1129" style="stop-color:#3dcefb" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path id="rect4" transform="matrix(0,-1,-1,0,0,0)" d="M -43.853658,-46 H -4.1463416 C -2.9572683,-46 -2,-45.042732 -2,-43.853659 V -4.1463413 C -2,-2.9572682 -2.9572683,-2 -4.1463416,-2 H -43.853658 C -45.042732,-2 -46,-2.9572682 -46,-4.1463413 V -43.853659 C -46,-45.042732 -45.042732,-46 -43.853658,-46 Z" style="fill:url(#linearGradient945);stroke-width:1.0731709"/>
+ <path id="rect917" d="m19.653498 18.585114h8.692995v5.921668h-8.692995z" style="fill:#ececec"/>
+ <path id="rect919" d="m19.653498 11h8.692995v5.921669h-8.692995z" style="fill:#ffffff"/>
+ <path id="path921" d="M 12,24.890122 24.000896,37 36,24.890122 h -5.128404 l -6.8707,6.935927 -6.872492,-6.935927 z" style="fill:#e6e6e6"/>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="SVGRoot" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs3308">
+  <linearGradient id="linearGradient849-5" x1="23.659443" x2="23.659443" y1="33.152542" y2="14.837123" gradientTransform="matrix(2.0909091,0,0,2.0909095,-26.181817,-26.181831)" gradientUnits="userSpaceOnUse">
+   <stop id="stop1053" style="stop-color:#00d580" offset="0"/>
+   <stop id="stop1055" style="stop-color:#00f191" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient952" x1="23.655031" x2="23.655031" y1="47.112938" y2="1.2813141" gradientUnits="userSpaceOnUse">
+   <stop id="stop946" style="stop-color:#666666" offset="0"/>
+   <stop id="stop948" style="stop-color:#999999" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path id="path929" d="m47 24a23 23 0 0 1-23 23 23 23 0 0 1-23-23 23 23 0 0 1 23-23 23 23 0 0 1 23 23z" style="fill:url(#linearGradient952);paint-order:stroke fill markers"/>
+ <path id="path1102" d="m23.99841 4.5760562a19.424013 19.424019 0 0 0-19.422347 19.422353 19.424013 19.424019 0 0 0 19.422347 19.425532 19.424013 19.424019 0 0 0 19.425528-19.425532 19.424013 19.424019 0 0 0-19.425528-19.422353z" style="fill:url(#linearGradient849-5);stroke-width:.7187258"/>
+ <path id="path914" d="m18.201309 14.472411 14 9.498406-14 9.501593z" style="fill:#ffffff;stroke-width:.7187258"/>
+</svg>

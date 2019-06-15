@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg47" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs51">
+  <linearGradient id="linearGradient881" x1="32.052734" x2="32.052734" y1="40.90625" y2="15.182004" gradientTransform="translate(0,-5.039e-4)" gradientUnits="userSpaceOnUse">
+   <stop id="stop1018" style="stop-color:#cccccc" offset="0"/>
+   <stop id="stop1020" style="stop-color:#ebebeb" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient839" x1="8.7651777" x2="8.7651777" y1="281.36874" y2="283.93988" gradientTransform="matrix(3.7795275 0 0 3.7791609 -.923831 -1058.2339)" gradientUnits="userSpaceOnUse">
+   <stop id="stop1024" style="stop-color:#a2a2a2" offset="0"/>
+   <stop id="stop1026" style="stop-color:#dfdfdf" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient846" x1="8.2415819" x2="8.2415819" y1="295.47632" y2="284.46448" gradientTransform="matrix(3.7795275,0,0,3.7795275,0,-1058.5201)" gradientUnits="userSpaceOnUse">
+   <stop id="stop1006" style="stop-color:#ee4f75" offset="0"/>
+   <stop id="stop1008" style="stop-color:#f4849c" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient855" x1="8.619092" x2="8.619092" y1="281.36874" y2="283.99829" gradientTransform="matrix(3.7795275 0 0 3.7795275 -.922922 -1058.337)" gradientUnits="userSpaceOnUse">
+   <stop id="stop1012" style="stop-color:#e13760" offset="0"/>
+   <stop id="stop1014" style="stop-color:#f0607f" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path id="path822" d="M 5,15.000025 15,5 H 49.000002 L 59,15.000025 Z" style="fill:url(#linearGradient855);paint-order:stroke fill markers"/>
+ <path id="rect812" d="M 59,15.000025 H 5 V 59 h 54 z" style="fill:url(#linearGradient846);paint-order:stroke fill markers"/>
+ <path id="path840" d="m25.999997 14.999988 2.999094-9.999988h5.999999l3.000914 9.999988z" style="fill:url(#linearGradient839);paint-order:stroke fill markers"/>
+ <path id="rect823" d="m26 15.001449v13.398438h0.05273v12.50586l1.822266-1.988281 1.392578 2.083984 1.5-3.408203 1.285156 3.3125 1.5-2.177734 1.714844 2.177734 1.392578-2.460938 1.28711 2.460938v-12.50586h0.05274v-13.398438z" style="fill:url(#linearGradient881);paint-order:stroke fill markers"/>
+</svg>

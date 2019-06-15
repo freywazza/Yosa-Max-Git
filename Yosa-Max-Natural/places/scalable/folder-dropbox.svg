@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg5453" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs5455">
+  <linearGradient id="linearGradient833" x1="32.010437" x2="31.962496" y1="57.89262" y2="15.119835" gradientTransform="translate(0,-3.8146973e-6)" gradientUnits="userSpaceOnUse">
+   <stop id="stop827" style="stop-color:#ffca28" offset="0"/>
+   <stop id="stop829" style="stop-color:#ffd351" offset="1"/>
+  </linearGradient>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#4d4d4d;
+      }</style>
+ </defs>
+ <path id="folderTab-3" d="m4 6c-0.55122 0.05512-1 0.446-1 1v42h58v-38c0-1-1-1-1-1h-27c-2-4-6-4-6-4h-22z" style="fill-rule:evenodd;fill:#ffb437"/>
+ <path id="folderPaper-6" d="m7 13h50v32h-50z" style="color-rendering:auto;color:#000000;fill:#fffbec;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;white-space:normal"/>
+ <path id="folderFront-2" d="m39 14.999996s-4 0-6 4h-31s-0.1319813 0.01691-0.2890625 0.05859c-0.045956 0.01404-0.091922 0.02277-0.1347656 0.04297-0.2742277 0.109838-0.5761719 0.34321-0.5761719 0.89844v37c0 0.55397 0.44603 1 1 1h60c0.55397 0 1-0.44603 1-1v-41c0-0.55397-0.44603-1-1-1h-1z" style="fill-rule:evenodd;fill:url(#linearGradient833)"/>
+ <path id="path4" class="ColorScheme-Text" d="m27.88949 42.499092 4.110523-3.50485-5.937477-3.75089-4.062536 3.332788zm4.110523-3.505158 4.12258 3.505004 5.877407-3.922951-4.062392-3.332635zm0 0.762702-4.110523 3.492474-1.76691-1.180507v1.327974l5.877433 3.603423 5.913521-3.603423v-1.327974l-1.767036 1.180507zm-10.000013-7.83367 4.062536 3.320386 5.937477-3.738502-4.110523-3.50485zm14.122593-3.922966-4.12258 3.50485 5.937595 3.738502 4.062392-3.320386z" style="color:#4d4d4d;fill:#f9f9f9"/>
+</svg>

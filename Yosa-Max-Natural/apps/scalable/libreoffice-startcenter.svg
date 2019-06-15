@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg31" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs35">
+  <linearGradient id="linearGradient978" x1="68.94915" x2="68.94915" y1="46.372883" y2="3.4576273" gradientTransform="translate(-45.762712,-1.016949)" gradientUnits="userSpaceOnUse">
+   <stop id="stop972" style="stop-color:#3c3f43" offset="0"/>
+   <stop id="stop974" style="stop-color:#64696e" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path id="rect883" d="m7 2v44h34v-29.171875l-13.414062-13.414063-1.414063-1.4140624z" style="fill:url(#linearGradient978);paint-order:stroke fill markers"/>
+ <path id="path842" d="m 32,21.142936 c -2.242629,0.865058 -3.951248,1.48103 -5.454502,3.428664 -1.33923,1.735437 -3.272777,2.336927 -5.454473,1.19288 V 32 H 20 V 16.571465 C 19.999971,16.255315 20.243933,16 20.545413,16 c 0.301466,0 0.545584,0.255799 0.545584,0.571465 1.211213,1.844801 3.3163,2.253383 5.454459,2.285796 C 29.818091,18.907141 32,21.142936 32,21.142936 Z" style="fill:#ffffff"/>
+ <path id="rect893" d="m29 2 12 12v-12z" style="fill:#414549;paint-order:stroke fill markers"/>
+</svg>

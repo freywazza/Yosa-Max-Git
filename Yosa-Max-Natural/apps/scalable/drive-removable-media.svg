@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="SVGRoot" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs1062">
+  <linearGradient id="linearGradient895" x1="32" x2="32" y1="51.932205" y2="5.5593219" gradientTransform="matrix(.73913043 0 0 .74074074 .34782624 .29629632)" gradientUnits="userSpaceOnUse">
+   <stop id="stop889" style="stop-color:#53e418" offset="0"/>
+   <stop id="stop891" style="stop-color:#80ed54" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path id="Rectangle-1-2" d="m7.0000001 5.1091601c0-0.6125722 0.4937409-1.1091601 1.1119109-1.1091601h31.776177c0.614092 0 1.111911 0.4921532 1.111911 1.1091601l1e-6 33.705655h-34z" style="fill-rule:evenodd;fill:url(#linearGradient895)"/>
+ <path id="Rectangle-3-6" d="m7.0000001 34.744251c0-0.615588 0.4937409-1.114621 1.1119109-1.114621h31.776178c0.614092 0 1.111911 0.495048 1.111911 1.114621v4.811305h-34z" style="fill-rule:evenodd;fill:#ffffff"/>
+ <path id="path16" d="m7.0000001 38.449184c0-0.616268 0.4937409-1.115851 1.1119109-1.115851h31.776177c0.614091 0 1.11191 0.501084 1.11191 1.115851v4.434966c0 0.616267-0.49374 1.11585-1.11191 1.11585h-31.776177c-0.6140916 0-1.1119109-0.501084-1.1119109-1.11585z" style="fill-rule:evenodd;fill:#dcdddd"/>
+ <path id="Rectangle-path-1" d="m26.957031 39.550781v2.222657h0.738281v-2.222657h-0.738281zm2.216797 0v2.222657h0.738281v-2.222657h-0.738281zm2.216797 0v2.222657h0.740234v-2.222657h-0.740234zm2.21875 0v2.222657h0.738281v-2.222657h-0.738281zm2.216797 0v2.222657h0.738281v-2.222657h-0.738281zm2.216797 0v2.222657h0.740234v-2.222657h-0.740234z" style="fill-rule:evenodd;fill:#4d4d4d"/>
+ <path id="Oval-2" d="m11.065217 41.777778c0.612316 0 1.108696-0.497462 1.108696-1.111111 0-0.61365-0.49638-1.111111-1.108696-1.111111-0.612315 0-1.1086952 0.497461-1.1086952 1.111111 0 0.613649 0.4963802 1.111111 1.1086952 1.111111z" style="fill-rule:evenodd;fill:#4d4d4d"/>
+ <path id="Path-2" d="m24 12-7 9h14l-7-9zm-7 11.203125v2h14v-2h-14z" style="fill-rule:evenodd;fill:#ffffff"/>
+</svg>

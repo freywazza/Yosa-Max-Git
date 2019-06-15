@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient1455" x1="130.16949" x2="130.16949" y1="6.7796607" y2="47.728813" gradientTransform="matrix(1.2851141,0,0,1.2871462,-139.21534,-69.460853)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#a8a8a8" offset="0"/>
+   <stop style="stop-color:#d0d0d0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1468" x1="130.16949" x2="130.16949" y1="6.0678883" y2="47.728813" gradientTransform="matrix(1.2851141,0,0,1.2871462,-133.09249,-64.350403)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#e99817" offset="0"/>
+   <stop style="stop-color:#f0c852" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="scale(1,-1)" d="m8-62.000011h41.877151v54.88956h-41.877151z" style="fill:url(#linearGradient1455);paint-order:stroke fill markers"/>
+ <path transform="scale(1,-1)" d="m14.122849-56.889549h41.877152v54.88956h-41.877152z" style="fill:url(#linearGradient1468);paint-order:stroke fill markers"/>
+ <path d="m23.539865 29.445459 11.520869 11.520869 1.809199-1.809199 8.823643-8.820881c0.0043-0.0043 0.0069-0.0095 0.01105-0.01381l0.878359-0.878359-0.889408-0.889407-1.414213-1.414214-9.217247 9.217247-6.913627-6.913626 6.912245-6.912245 2.305003 2.305003-4.610006 4.607242 2.305003 2.305003 6.913626-6.913627-6.912245-6.912245-10.631461 10.631461z" style="fill:#ffffff"/>
+</svg>

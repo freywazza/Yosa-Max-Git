@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg34" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs38">
+  <linearGradient id="linearGradient978" x1="68.94915" x2="68.94915" y1="46.372883" y2="3.4576273" gradientTransform="translate(-45.762712,-1.016949)" gradientUnits="userSpaceOnUse">
+   <stop id="stop972" style="stop-color:#e99817" offset="0"/>
+   <stop id="stop974" style="stop-color:#f0c852" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path id="rect883" d="m7 2v44h34v-29.171875l-13.414062-13.414063-1.414063-1.4140624z" style="fill:url(#linearGradient978);paint-order:stroke fill markers"/>
+ <path id="rect893" d="m29 2 12 12v-12z" style="fill:#e99817;paint-order:stroke fill markers"/>
+ <path id="rect962" d="m26.5 15.5a6 6 0 0 0-5.1875 3h2.548828a4 4 0 0 1 2.638672-1 4 4 0 0 1 4 4 4 4 0 0 1-1 2.638672v2.550781a6 6 0 0 0 3-5.189453 6 6 0 0 0-6-6zm-11 5v12h12v-12h-12zm2 2h8v8h-8v-8z" style="fill:#ffffff;paint-order:stroke fill markers"/>
+</svg>

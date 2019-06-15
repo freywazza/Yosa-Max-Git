@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg8" width="64" height="64" version="1.1" viewBox="0 0 16.933333 16.933334" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs2">
+  <linearGradient id="linearGradient855" x1="8.619092" x2="8.619092" y1="281.36874" y2="283.99829" gradientTransform="translate(-.24418985 .04844175)" gradientUnits="userSpaceOnUse">
+   <stop id="stop849" style="stop-color:#2bb433" offset="0"/>
+   <stop id="stop851" style="stop-color:#35d14c" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient839" x1="8.7651777" x2="8.7651777" y1="281.36874" y2="283.93988" gradientTransform="matrix(1 0 0 .99990301 -.24443025 .07573029)" gradientUnits="userSpaceOnUse">
+   <stop id="stop833" style="stop-color:#313131" offset="0"/>
+   <stop id="stop835" style="stop-color:#5f5f5f" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient881" x1="32.052734" x2="32.052734" y1="40.90625" y2="15.182004" gradientUnits="userSpaceOnUse">
+   <stop id="stop875" style="stop-color:#4c4c4c" offset="0"/>
+   <stop id="stop877" style="stop-color:#7d7d7d" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient846" x1="8.2415819" x2="8.2415819" y1="295.47632" y2="284.46448" gradientUnits="userSpaceOnUse">
+   <stop id="stop840" style="stop-color:#3cd551" offset="0"/>
+   <stop id="stop842" style="stop-color:#58ee6e" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g id="layer1" transform="translate(0,-280.06665)">
+  <path id="path822" d="m1.3229167 284.03554 2.6458333-2.64584h8.995834l2.645833 2.64584z" style="fill:url(#linearGradient855);paint-order:stroke fill markers"/>
+  <path id="rect812" d="m15.610417 284.03554h-14.2875v11.64166h14.2875z" style="fill:url(#linearGradient846);paint-order:stroke fill markers"/>
+  <path id="path840" d="m6.8791661 284.03553 0.7935103-2.64583h1.5874997l0.7939919 2.64583z" style="fill:url(#linearGradient839);paint-order:stroke fill markers"/>
+  <path id="rect823" transform="matrix(.26458334 0 0 .26458334 0 280.06665)" d="m26 15.001953v13.398438h0.052734v12.505859l1.822266-1.988281 1.392578 2.083984 1.5-3.408203 1.285156 3.3125 1.5-2.177734 1.714844 2.177734 1.392578-2.460938 1.28711 2.460938v-12.505859h0.052734v-13.398438h-12z" style="fill:url(#linearGradient881);paint-order:stroke fill markers"/>
+ </g>
+</svg>

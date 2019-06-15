@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="SVGRoot" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs866">
+  <linearGradient id="linearGradient1485" x1="27.0625" x2="26.875" y1="40.312527" y2="-8.0624733" gradientUnits="userSpaceOnUse">
+   <stop id="stop1479" style="stop-color:#253444" offset="0"/>
+   <stop id="stop1481" style="stop-color:#405a75" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g id="layer1">
+  <g id="g1496" transform="matrix(.75862069 0 0 .75862069 3.6594827 12.905172)">
+   <rect id="rect4148" x="-1.187499" y="-11.374947" width="56" height="51.999947" style="fill:url(#linearGradient1485)"/>
+   <path id="rect4151" d="m-1.1875-12.375c-0.554038 0-1 0.446-1 1v52c0 0.554 0.445962 1 1 1h56c0.554038 0 1-0.446 1-1v-52c0-0.554-0.445962-1-1-1h-55zm1 4h54v48h-54z" style="fill:#34495e"/>
+   <circle id="path4155" cx="52.812481" cy="-10.374947" r="1" style="fill:#ecf0f1"/>
+   <rect id="rect4153" x="-.18749905" y="-8.3749466" width="54" height="1.018868" style="fill:#03c9a9"/>
+   <path id="rect4171" d="m-2.1875 40.625c0 0.554 0.445962 1 1 1h56c0.554038 0 1-0.446 1-1z" style="fill:#2c3e4f"/>
+   <rect id="rect4211" x="-.1875" y="32.625053" width="39" height="1" style="fill:#0cb49d"/>
+   <circle id="path4162" cx="38.312492" cy="33.124565" r="2.4999995" style="fill:#0cb49d"/>
+   <circle id="circle4164" cx="38.312492" cy="33.124565" r="1.4999995" style="fill:#dadfe1"/>
+   <path id="path4240" d="m19.8125 21.625v-20l14 10.7693z" style="fill-rule:evenodd;fill:#0cb49d"/>
+  </g>
+ </g>
+</svg>

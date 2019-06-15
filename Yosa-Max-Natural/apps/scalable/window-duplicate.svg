@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="SVGRoot" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs894">
+  <linearGradient id="linearGradient963" x1="-98.371735" x2="-6.615643" y1="-2.6240516" y2="55.76619" gradientUnits="userSpaceOnUse">
+   <stop id="stop957" style="stop-color:#e9e9e9" offset="0"/>
+   <stop id="stop959" style="stop-color:#ffffff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g id="layer1">
+  <path id="path897" d="m3.4742513 4.5341898c-0.3055322 0-0.5514644 0.2459531-0.5514644 0.5514644v28.676149c0 0.305511 0.2459322 0.551464 0.5514644 0.551464h30.882006c0.305532 0 0.551465-0.245954 0.551465-0.551464v-28.676149c0-0.3055113-0.245933-0.5514644-0.551465-0.5514644h-30.330541z" style="fill:#34495e"/>
+  <g id="g907" transform="matrix(.71887923 0 0 .71887923 47.075588 6.8812659)" style="fill:#ff5555;stroke-width:1.3756477">
+   <circle id="circle899" cx="-20.3729" cy="-.7965467" r="1" style="fill:#ff5555"/>
+   <circle id="circle901" cx="-23.75263" cy="-.7965467" r="1" style="fill:#ff5555"/>
+   <circle id="circle903" cx="-27.204269" cy="-.86845589" r="1" style="fill:#ff5555"/>
+   <circle id="circle905" cx="-27.13236" cy="-.7965467" r="1" style="fill:#ff5555"/>
+  </g>
+  <rect id="rect909" x="4.0160217" y="8.2670517" width="29.798464" height="24.968353" rx="1.6334354" ry="1.6334354" style="fill:#f2f2f2;stroke-width:.99346393"/>
+  <path id="path1002" d="m13.643743 13.686733c-0.305532 0-0.551465 0.245953-0.551465 0.551464v28.676149c0 0.305511 0.245933 0.551464 0.551465 0.551464h30.882005c0.305533 0 0.551465-0.245954 0.551465-0.551464v-28.676149c0-0.305511-0.245932-0.551464-0.551465-0.551464h-30.330541z" style="fill:#34495e"/>
+  <g id="g1012" transform="matrix(.71887923 0 0 .71887923 57.24508 16.033809)" style="fill:#ff5555;stroke-width:1.3756477">
+   <circle id="circle1004" cx="-20.3729" cy="-.7965467" r="1" style="fill:#ff5555"/>
+   <circle id="circle1006" cx="-23.75263" cy="-.7965467" r="1" style="fill:#ff5555"/>
+   <circle id="circle1008" cx="-27.204269" cy="-.86845589" r="1" style="fill:#ff5555"/>
+   <circle id="circle1010" cx="-27.13236" cy="-.7965467" r="1" style="fill:#ff5555"/>
+  </g>
+  <rect id="rect1014" x="14.185513" y="17.419596" width="29.798464" height="24.968353" rx="1.6334354" ry="1.6334354" style="fill:url(#linearGradient963);stroke-width:.99346393"/>
+ </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg30" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs34">
+  <linearGradient id="linearGradient888" x1="18" x2="18" y1="34" y2="11.216492" gradientTransform="matrix(.91015321 0 0 .84147206 7.5156731 5.0692823)" gradientUnits="userSpaceOnUse">
+   <stop id="stop882" style="stop-color:#e4e4e4" offset="0"/>
+   <stop id="stop884" style="stop-color:#ffffff;stop-opacity:.99215686" offset="1"/>
+  </linearGradient>
+ </defs>
+ <linearGradient id="a" x1="509.81154" x2="509.81154" y1="548.64283" y2="504.28565" gradientTransform="translate(-486.76034,-502.72583)" gradientUnits="userSpaceOnUse">
+  <stop id="stop10" stop-color="#118702" offset="0"/>
+  <stop id="stop12" stop-color="#80e950" offset="1"/>
+ </linearGradient>
+ <path id="circle20" d="m46.999863 23.999939a22.999949 22.999949 0 0 1-22.999949 22.999948 22.999949 22.999949 0 0 1-22.999948-22.999948 22.999949 22.999949 0 0 1 22.999948-22.999949 22.999949 22.999949 0 0 1 22.999949 22.999949z" style="fill:url(#a);stroke-width:1.317422"/>
+ <path id="path845" d="m23.999964 22.358093a3.8571401 4.2454565 0 0 0 3.857135-4.245433 3.8571401 4.2454565 0 0 0-3.857135-4.245454 3.8571401 4.2454565 0 0 0-3.857162 4.245454 3.8571401 4.2454565 0 0 0 3.857162 4.245433m0 2.830309c-2.995715 0-9 1.744142-9 5.217552v3.726835h18v-3.726835c0-3.47341-6.004297-5.217552-9-5.217552" style="fill:url(#linearGradient888);stroke-width:2.1193335"/>
+</svg>

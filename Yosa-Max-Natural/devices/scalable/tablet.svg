@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="SVGRoot" width="48" height="48" enable-background="new -51 53 96 96" version="1.1" viewBox="-51 53 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs17">
+  <linearGradient id="linearGradient883" x1="23.75" x2="23.75" y1="44.125" y2="10.5" gradientTransform="matrix(1.0047609 0 0 1.0289305 .93963112 -3.3673538)" gradientUnits="userSpaceOnUse">
+   <stop id="stop877" style="stop-color:#2e3e46" offset="0"/>
+   <stop id="stop879" style="stop-color:#425965" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g id="g1354" transform="translate(-51.94915,52.305035)">
+  <rect id="rect15-2" x="2.9491508" y="7.6949639" width="44" height="34" rx="1.5040506" ry="1.5040507" style="fill:url(#linearGradient883);stroke-width:1.2051398"/>
+  <rect id="rect935-6" x="5.8187151" y="10.491767" width="38.260872" height="28.406397" rx="1.2566073" ry="1.2566073" style="fill:#45cff6;stroke-width:1.0272051"/>
+  <path id="rect1261" d="m35.945312 10.492188-16.40039 28.40625h9.238281l15.296875-26.498047v-0.652344c0-0.696161-0.561652-1.255859-1.257812-1.255859z" style="fill:#d2f3fc;paint-order:stroke fill markers"/>
+  <path id="rect1263" d="m28.707031 10.492188-16.40039 28.40625h4.61914l16.400391-28.40625z" style="fill:#d2f3fc;paint-order:stroke fill markers"/>
+ </g>
+</svg>

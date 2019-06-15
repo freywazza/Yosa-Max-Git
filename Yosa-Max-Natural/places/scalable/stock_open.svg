@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg5453" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs5455">
+  <linearGradient id="linearGradient833" x1="32.010437" x2="31.962496" y1="57.89262" y2="15.119835" gradientTransform="translate(0,-3.8146973e-6)" gradientUnits="userSpaceOnUse">
+   <stop id="stop827" style="stop-color:#ffca28" offset="0"/>
+   <stop id="stop829" style="stop-color:#ffd351" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient6227" x1="-989.66583" x2="-1003.6364" y1="433.28394" y2="317.35452" gradientTransform="matrix(.30056876 .11755199 -.11225399 .29795489 371.6316 32.168961)" gradientUnits="userSpaceOnUse">
+   <stop id="stop3778" style="stop-color:#e7f0f4" offset="0"/>
+   <stop id="stop3780" style="stop-color:#f4faff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path id="folderTab-3" d="m4 6c-0.55122 0.05512-1 0.446-1 1v42h58v-38c0-1-1-1-1-1h-27c-2-4-6-4-6-4h-22z" style="fill-rule:evenodd;fill:#ffb437"/>
+ <path id="folderPaper-6" d="m7 13h50v9.140967h-50z" style="color-rendering:auto;color:#000000;fill:#fffbec;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;white-space:normal"/>
+ <path id="rect6189-3-4" d="m5.5448518 15.418498c-0.342325-0.0012-0.616798 0.272911-0.615235 0.615234l0.01367 3.130859h25.318362l-0.01367-3.041015c-0.0016-0.342324-0.278769-0.617923-0.621094-0.619141z" style="fill:#fbdc3e"/>
+ <path id="rect6189-6" d="m22.710629 3.835973 28.225128 11.038806c0.492829 0.192744 0.739387 0.746578 0.55282 1.241779l-13.12459 34.836499c-0.186566 0.495201-0.733516 0.738695-1.226345 0.54595l-28.225128-11.038805c-0.4928297-0.192745-0.7393879-0.746579-0.5528218-1.24178l13.124591-34.836498c0.186566-0.4952017 0.733516-0.7386954 1.226346-0.5459505z" style="fill:url(#linearGradient6227)"/>
+ <path id="folderFront-2" d="m39 14.999996s-4 0-6 4h-31s-0.1319813 0.01691-0.2890625 0.05859c-0.045956 0.01404-0.091922 0.02277-0.1347656 0.04297-0.2742277 0.109838-0.5761719 0.34321-0.5761719 0.89844v37c0 0.55397 0.44603 1 1 1h60c0.55397 0 1-0.44603 1-1v-41c0-0.55397-0.44603-1-1-1h-1z" style="fill-rule:evenodd;fill:url(#linearGradient833)"/>
+</svg>

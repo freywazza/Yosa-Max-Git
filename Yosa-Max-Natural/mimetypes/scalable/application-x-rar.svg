@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg8" width="64" height="64" version="1.1" viewBox="0 0 16.933333 16.933334" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs2">
+  <linearGradient id="linearGradient855" x1="8.619092" x2="8.619092" y1="281.36874" y2="283.99829" gradientTransform="translate(-.24418985 .04844175)" gradientUnits="userSpaceOnUse">
+   <stop id="stop849" style="stop-color:#1e95e4" offset="0"/>
+   <stop id="stop851" style="stop-color:#38b1f1" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient908" x1="8.5878668" x2="8.5878668" y1="295.57468" y2="284.32596" gradientUnits="userSpaceOnUse">
+   <stop id="stop902" style="stop-color:#1e9ff4" offset="0"/>
+   <stop id="stop904" style="stop-color:#6fcafa" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient839-9" x1="8.7651777" x2="8.7651777" y1="281.36874" y2="283.93988" gradientTransform="matrix(1 0 0 .99990301 -.24443015 .0757344)" gradientUnits="userSpaceOnUse">
+   <stop id="stop833-6" style="stop-color:#313131" offset="0"/>
+   <stop id="stop835-0" style="stop-color:#5f5f5f" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient881-2" x1="32.052734" x2="32.052734" y1="40.90625" y2="15.182004" gradientTransform="matrix(.26458334 0 0 .26458334 1.98e-6 280.06627)" gradientUnits="userSpaceOnUse">
+   <stop id="stop875-5" style="stop-color:#4c4c4c" offset="0"/>
+   <stop id="stop877-3" style="stop-color:#7d7d7d" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g id="layer1" transform="translate(0,-280.06665)">
+  <path id="path822" d="m1.3229167 284.03554 2.6458333-2.64584h8.995834l2.645833 2.64584z" style="fill:url(#linearGradient855);paint-order:stroke fill markers"/>
+  <path id="rect812" d="m15.610417 284.03554h-14.2875v11.64166h14.2875z" style="fill:url(#linearGradient908);paint-order:stroke fill markers"/>
+  <path id="path840-2" d="m6.8791659 284.03553 0.7935104-2.64583h1.5874997l0.793992 2.64583z" style="fill:url(#linearGradient839-9);paint-order:stroke fill markers"/>
+  <path id="rect823-0" d="m6.8791689 284.03554v3.545h0.01395v3.30884l0.482142-0.52606 0.3684525 0.55138 0.396875-0.90175 0.340031 0.87643 0.3968749-0.57619 0.4537192 0.57619 0.368453-0.65112 0.3405485 0.65112v-3.30884h0.01395v-3.545z" style="fill:url(#linearGradient881-2);paint-order:stroke fill markers"/>
+ </g>
+</svg>

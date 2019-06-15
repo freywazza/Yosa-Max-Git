@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg13" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs17">
+  <linearGradient id="linearGradient880" x1="409.57144" x2="409.93887" y1="542.79797" y2="501.2316" gradientTransform="matrix(.93164058 0 0 1.0102252 -415.82818 -514.90994)" gradientUnits="userSpaceOnUse">
+   <stop id="stop2-5" stop-color="#197cf1" offset="0"/>
+   <stop id="stop4-3" stop-color="#20bcfa" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path id="rect4148-2" d="m2.7586205 3.5172413c-0.4203047 0-0.7586207 0.3383449-0.7586207 0.7586207v39.448276c0 0.420276 0.338316 0.758621 0.7586207 0.758621h42.482758c0.420305 0 0.758621-0.338345 0.758621-0.758621v-39.448276c0-0.4202758-0.338316-0.7586207-0.758621-0.7586207h-41.724138z" style="fill:#34495e"/>
+ <g id="g873" transform="matrix(.98892453 0 0 .98892453 62.738697 6.745991)" style="fill:#ff5555">
+  <circle id="path4155-0" cx="-20.3729" cy="-.7965467" r="1" style="fill:#ff5555"/>
+  <circle id="circle858" cx="-23.75263" cy="-.7965467" r="1" style="fill:#ff5555"/>
+  <circle id="circle860" cx="-27.204269" cy="-.86845589" r="1" style="fill:#ff5555"/>
+  <circle id="circle856" cx="-27.13236" cy="-.7965467" r="1" style="fill:#ff5555"/>
+ </g>
+ <g id="g1052" transform="translate(0,10.571935)">
+  <g id="g1062" transform="translate(59.186439)">
+   <rect id="rect7-5" x="-55.682533" y="-1.9195915" width="40.992188" height="34.347656" rx="1.6334354" ry="1.6334354" style="fill:url(#linearGradient880);stroke-width:.99346393"/>
+   <path id="path17-9" d="m-37.581147 5.6610167h4.789411v7.1985153h7.198515v4.789411h-7.198515v7.198515h-4.789411v-7.198515h-7.198514v-4.789411h7.198514" style="fill:#def3fe"/>
+  </g>
+ </g>
+</svg>

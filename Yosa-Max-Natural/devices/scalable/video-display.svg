@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg39" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x1="408.70813" x2="408.78354" y1="538.93011" y2="503.87836" gradientTransform="matrix(1.076862,0,0,1.076862,-407.97506,-534.16333)" gradientUnits="userSpaceOnUse">
+  <stop id="stop2" stop-color="#141414" offset="0"/>
+  <stop id="stop4" stop-color="#2d2d2f" offset="1"/>
+ </linearGradient>
+ <linearGradient id="b" x1="408.33063" x2="408.33063" y1="534.90588" y2="507.00964" gradientTransform="matrix(1.0829773,0,0,1.1319088,-410.4736,-562.51957)" gradientUnits="userSpaceOnUse">
+  <stop id="stop7" stop-color="#ff3069" offset="0"/>
+  <stop id="stop9" stop-color="#ffa548" offset="1"/>
+ </linearGradient>
+ <linearGradient id="c" x1="408.57144" x2="408.57144" y1="546.42059" y2="538.45892" gradientTransform="matrix(1.2563398,0,0,1.1747587,-481.30453,-587.63815)" gradientUnits="userSpaceOnUse">
+  <stop id="stop12" stop-color="#151515" offset="0"/>
+  <stop id="stop14" stop-color="#272727" offset="1"/>
+ </linearGradient>
+ <linearGradient id="d" x1="408.45572" x2="408.46841" y1="547.80957" y2="546.59082" gradientTransform="matrix(1.076862,0,0,1.076862,-407.97506,-534.01052)" gradientUnits="userSpaceOnUse">
+  <stop id="stop17" stop-color="#151515" offset="0"/>
+  <stop id="stop19" stop-color="#393939" offset="1"/>
+ </linearGradient>
+ <linearGradient id="e" x1="420.91302" x2="419.3876" y1="537.31653" y2="504.78961" gradientTransform="matrix(1.076862,0,0,1.076862,-407.97506,-534.16333)" gradientUnits="userSpaceOnUse">
+  <stop id="stop22" stop-color="#151515" offset="0"/>
+  <stop id="stop24" stop-color="#2e2e2e" offset="1"/>
+ </linearGradient>
+ <path id="path27" d="m24.461953 42.969954v12.922344h15.076068v-12.922344z" style="fill:url(#c);stroke-width:1.076862"/>
+ <rect id="rect29" x="21.40963" y="54.732754" width="21.180737" height="1.2672458" ry=".63361162" style="fill:url(#d);stroke-width:1.076862"/>
+ <rect id="rect33" x="4.0015879" y="8.2107964" width="55.996822" height="37.836956" ry="1.0315843" style="fill-rule:evenodd;fill:url(#a);stroke-linecap:round;stroke-linejoin:round;stroke-width:.42159256;stroke:url(#e)"/>
+ <rect id="rect35" x="6.0991158" y="9.9671059" width="51.801773" height="34.132832" ry=".56595451" style="fill-rule:evenodd;fill:url(#b);stroke-width:1.076862"/>
+</svg>

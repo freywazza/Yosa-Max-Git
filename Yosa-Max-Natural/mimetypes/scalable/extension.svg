@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg8" width="64" height="64" version="1.1" viewBox="0 0 16.933333 16.933334" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs2">
+  <linearGradient id="linearGradient1455" x1="130.16949" x2="130.16949" y1="6.7796607" y2="47.728813" gradientTransform="matrix(.34001978 0 0 .34055744 -36.83406 -298.44484)" gradientUnits="userSpaceOnUse">
+   <stop id="stop1493" style="stop-color:#a8a8a8" offset="0"/>
+   <stop id="stop1495" style="stop-color:#d0d0d0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1468" x1="130.16949" x2="130.16949" y1="5.8645244" y2="47.728813" gradientTransform="matrix(.34001978 0 0 .34055744 -35.214053 -297.09271)" gradientUnits="userSpaceOnUse">
+   <stop id="stop1449" style="stop-color:#eac13a" offset="0"/>
+   <stop id="stop1451" style="stop-color:#f5d873" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g id="layer1" transform="translate(0,-280.06665)">
+  <rect id="rect1243" transform="scale(1,-1)" x="2.1166668" y="-296.47083" width="11.079997" height="14.522863" style="fill:url(#linearGradient1455);paint-order:stroke fill markers"/>
+  <rect id="rect1466" transform="scale(1,-1)" x="3.7366703" y="-295.11868" width="11.079997" height="14.522863" style="fill:url(#linearGradient1468);paint-order:stroke fill markers"/>
+  <path id="path32" d="m11.292542 287.73126h-0.377977v-1.00794c0-0.27717-0.226785-0.50396-0.503968-0.50396h-1.0079371v-0.37797c0-0.35278-0.2771817-0.62997-0.6299593-0.62997-0.352778 0-0.6299608 0.27719-0.6299608 0.62997v0.37797h-1.0079363c-0.2771824 0-0.503968 0.22679-0.503968 0.50396v0.95755h0.3779761c0.3779758 0 0.6803573 0.30238 0.6803573 0.68035 0 0.37798-0.3023815 0.68037-0.6803573 0.68037h-0.3779761v0.95753c0 0.27718 0.2267856 0.50397 0.503968 0.50397h0.9575402v-0.37798c0-0.37797 0.30238-0.68035 0.6803569-0.68035 0.3779758 0 0.6803568 0.30238 0.6803568 0.68035v0.37798h0.9575396c0.277183 0 0.503968-0.22679 0.503968-0.50397v-1.00793h0.377977c0.352778 0 0.62996-0.27719 0.62996-0.62997 0-0.35277-0.277182-0.62996-0.62996-0.62996z" style="fill:#ffffff;stroke-width:.01056133"/>
+ </g>
+</svg>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg35" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title id="title2">drive-removable-media-usb-64px</title>
+ <desc id="desc4">Created with Sketch.</desc>
+ <defs id="defs11">
+  <linearGradient id="a-5" x1="382.60422" x2="384.91803" y1="513.86383" y2="397.60794" gradientTransform="matrix(.20215495 0 0 .20215495 -91.242522 -61.501646)" gradientUnits="userSpaceOnUse">
+   <stop id="stop2-6" stop-color="#dcdfe0" offset="0"/>
+   <stop id="stop4-2" stop-color="#fefeff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient932" x1="382.60422" x2="384.91803" y1="513.86383" y2="397.60794" gradientTransform="matrix(.05104097 0 0 .05136586 -3.8223205 -5.0637669)" gradientUnits="userSpaceOnUse" xlink:href="#a-5"/>
+  <linearGradient id="linearGradient936-3" x1="25" x2="25" y1="38" y2="13" gradientTransform="matrix(1.3684211 0 0 1.3636364 -.8421064 -.72727251)" gradientUnits="userSpaceOnUse">
+   <stop id="stop7-6" stop-color="#197ff1" offset="0"/>
+   <stop id="stop9-7" stop-color="#21c6fb" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient983" x1="46.025574" x2="46.025574" y1="115.23913" y2="-2.8285642" gradientTransform="matrix(.25248439 0 0 .25409154 19.214992 10.563281)" gradientUnits="userSpaceOnUse" xlink:href="#a-5"/>
+ </defs>
+ <path id="Rectangle-1-6" d="m9.7368412 4.727273h44.526318c0.554 0 1 0.446 1 1v45.727276c0 0.554-0.446 1-1 1h-44.526318c-0.554 0-1-0.446-1-1v-45.727276c0-0.554 0.446-1 1-1z" style="fill-rule:evenodd;fill:url(#linearGradient936-3)"/>
+ <path id="Rectangle-3-7" d="m8.7368412 45.636364h46.526318v8.181818h-46.526318z" style="fill-rule:evenodd;fill:#ffffff"/>
+ <path id="rect16" d="m9.7368412 51.090908h44.526318c0.554 0 1 0.446 1 1v6.181818c0 0.554-0.446 1-1 1h-44.526318c-0.554 0-1-0.446-1-1v-6.181818c0-0.554 0.446-1 1-1z" style="fill-rule:evenodd;fill:#dcdddd"/>
+ <path id="Rectangle-path-5" d="m36.087891 53.8125v2.726562h1.367187v-2.726562h-1.367187zm2.736328 0v2.726562h1.36914v-2.726562h-1.36914zm2.736328 0v2.726562h1.369141v-2.726562h-1.369141zm2.738281 0v2.726562h1.367188v-2.726562h-1.367188zm2.736328 0v2.726562h1.367188v-2.726562h-1.367188zm2.736328 0v2.726562h1.369141v-2.726562h-1.369141z" style="fill-rule:evenodd;fill:#1b8ffc"/>
+ <path id="Oval-3" d="m16.947368 55.18182a1.3684211 1.3636364 0 0 1-1.368421 1.363636 1.3684211 1.3636364 0 0 1-1.368421-1.363636 1.3684211 1.3636364 0 0 1 1.368421-1.363636 1.3684211 1.3636364 0 0 1 1.368421 1.363636z" style="fill-rule:evenodd;fill:#1b8ffc"/>
+ <path id="path48" d="m40.945818 10.563281c-6.21162 0-7.376836 8.903622-3.882452 8.903622 3.493879 0 10.094326-8.903622 3.882452-8.903622z" style="fill:url(#linearGradient983)"/>
+ <path id="path50" d="m30.631579 18.363637c1.860557 0.114341 3.901893-7.145562 0.404985-6.68896-3.495647 0.456603-2.2663 6.574619-0.404985 6.68896z" style="fill:url(#linearGradient983)"/>
+ <path id="path52-3" d="m22.104676 22.874778c1.323271-0.586189 0.170427-6.319764-2.079714-4.756085-2.249131 1.563933 0.756443 5.34202 2.079714 4.756085z" style="fill:url(#linearGradient983)"/>
+ <path id="path54" d="m25.833113 19.873703c1.57525-0.323204 1.6616-6.825915-1.147542-5.659381-2.809646 1.166789-0.426446 5.983094 1.147542 5.659381z" style="fill:url(#linearGradient983)"/>
+ <path id="path56" d="m34.058802 34.42578c0.2795 2.14809-1.565908 3.208922-3.373192 1.824123-5.753361-4.408234 9.525984-6.607396 8.518824-12.629874-0.835976-4.998997-16.077196-3.459965-17.812774 4.361989-1.17481 5.29044 4.835833 12.630129 11.107546 12.630129 3.085359 0 6.644126-2.803647 7.309928-6.355338 0.508503-2.708362-5.983628-1.623137-5.750332 0.168971z" style="fill:url(#linearGradient932)"/>
+</svg>

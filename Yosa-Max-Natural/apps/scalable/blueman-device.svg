@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg35" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title id="title2">drive-removable-media-48px</title>
+ <desc id="desc4">Created with Sketch.</desc>
+ <defs id="defs11">
+  <linearGradient id="linearGradient936" x1="25" x2="25" y1="38" y2="13" gradientUnits="userSpaceOnUse">
+   <stop id="stop7-6" stop-color="#197ff1" offset="0"/>
+   <stop id="stop9-7" stop-color="#21c6fb" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path id="Rectangle-1" d="m8 4h32c0.554 0 1 0.446 1 1v33c0 0.554-0.446 1-1 1h-32c-0.554 0-1-0.446-1-1v-33c0-0.554 0.446-1 1-1z" style="fill-rule:evenodd;fill:url(#linearGradient936)"/>
+ <path id="Rectangle-3" d="m7 34h34v6h-34z" style="fill-rule:evenodd;fill:#ffffff"/>
+ <path id="rect16" d="m8 38h32c0.554 0 1 0.446 1 1v4c0 0.554-0.446 1-1 1h-32c-0.554 0-1-0.446-1-1v-4c0-0.554 0.446-1 1-1z" style="fill-rule:evenodd;fill:#dcdddd"/>
+ <path id="Rectangle-path" d="m26.986328 39.996094v2h1v-2h-1zm2 0v2h1v-2h-1zm2 0v2h1v-2h-1zm2 0v2h1v-2h-1zm2 0v2h1v-2h-1zm2 0v2h1v-2h-1z" style="fill-rule:evenodd;fill:#1b8ffc"/>
+ <path id="Oval" d="m13 41a1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1 1 1 0 0 1 1 1z" style="fill-rule:evenodd;fill:#1b8ffc"/>
+ <path id="path52" d="m23.39543 9.684011c-0.156105-0.018-0.317617 9e-3 -0.464947 0.0765-0.294584 0.14031-0.481998 0.436142-0.481998 0.760596v6.057949l-2.541862-2.040406c-0.364865-0.292773-0.899735-0.235983-1.194766 0.12636-0.295031 0.362344-0.238756 0.893257 0.126184 1.18621l3.524047 2.828003-3.524047 2.828093c-0.36494 0.292952-0.421215 0.823866-0.126184 1.18612 0.16793 0.206191 0.41388 0.313742 0.661611 0.313742 0.18764 0 0.375934-0.0612 0.533155-0.187382l2.541862-2.040316v6.055699c0 0.324362 0.187414 0.620285 0.481998 0.760596 0.116988 0.0558 0.243376 0.0828 0.36832 0.0828 0.18972 0 0.377154-0.063 0.53088-0.185132l5.32927-4.241014c0.201175-0.160111 0.318303-0.402033 0.318303-0.657905-2e-6 -0.256053-0.117128-0.497974-0.318303-0.657996l-4.09358-3.258026 4.09358-3.258116c0.201175-0.160112 0.318303-0.402034 0.318303-0.657906-2e-6 -0.255962-0.117128-0.497884-0.318303-0.657995l-5.32927-4.240924c-0.127472-0.101521-0.278147-0.161732-0.434253-0.179462zm0.752556 2.594541 3.120487 2.48384-3.120487 2.483929zm0 7.831953 3.120487 2.48393-3.120487 2.48384z" style="fill-rule:evenodd;fill:#ecedee;stroke-width:1.4915132"/>
+</svg>

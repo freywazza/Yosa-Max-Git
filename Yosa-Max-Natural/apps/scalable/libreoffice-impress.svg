@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg48" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs52">
+  <linearGradient id="linearGradient978" x1="68.94915" x2="68.94915" y1="46.372883" y2="3.4576273" gradientTransform="translate(-45.762712,-1.0169492)" gradientUnits="userSpaceOnUse">
+   <stop id="stop972" style="stop-color:#ff771d" offset="0"/>
+   <stop id="stop974" style="stop-color:#ff944d" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path id="rect883" d="m7 2v44h34v-29.171875l-13.414062-13.414063-1.414063-1.4140624z" style="fill:url(#linearGradient978);paint-order:stroke fill markers"/>
+ <path id="rect893" d="m29 2 12 12v-12z" style="fill:#ff6f10;paint-order:stroke fill markers"/>
+ <path id="path30" d="m24.984549 16.031292c3.874206 0 7.015451 3.134901 7.015451 7.009258h-7.015451c0.0015 0 0.0015-7.009258 0-7.009258zm-1.971999 1.905824v7.015963h7.015449c0 3.878383-3.139797 7.015629-7.015449 7.015629-3.875669 0-7.01255-3.137246-7.01255-7.015629 0-3.875699 3.138337-7.015963 7.01255-7.015963z" style="fill:#ffffff;stroke-width:1.6422782"/>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg7" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs3">
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }</style>
+ </defs>
+ <rect id="rect818" x="14" y="10.000011" width="6" height="9" style="fill:#ff5555"/>
+ <rect id="rect1474" x="2.0000002" y="10.000011" width="6.0000005" height="9" style="fill:#dfdfdf"/>
+ <g id="g1610" transform="matrix(3.7795276,0,0,3.7795276,-13.713388,-1081.0196)">
+  <path id="path1522" transform="matrix(.26458333 0 0 .26458333 0 284.29998)" d="M 24,9.5 A 6.4999997,6.4999997 0 0 0 17.5,16 h 1.998047 A 4.502626,4.502626 0 0 1 24,11.498047 4.502626,4.502626 0 0 1 28.501953,16 H 30.5 A 6.4999997,6.4999997 0 0 0 24,9.5 Z" style="fill:#dfdfdf"/>
+  <path id="rect1572" d="m7.8360662 287.2104v0.79375h-0.79375v0.52916h1.3229167v-1.32291z" style="fill:#dfdfdf"/>
+ </g>
+</svg>

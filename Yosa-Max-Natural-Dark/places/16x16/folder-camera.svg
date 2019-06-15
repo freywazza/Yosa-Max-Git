@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg6" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs3051">
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#dfdfdf;
+      }</style>
+ </defs>
+ <path id="rect818" d="m1 5v9h14v-9h-14zm7 2.5a2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2z" style="fill:#dfdfdf"/>
+ <rect id="rect822" x="2" y="2.9999995" width="3" height="1" style="fill:#dfdfdf"/>
+ <rect id="rect824" x="8" y="1.9999986" width="5" height="2" style="fill:#dfdfdf"/>
+</svg>

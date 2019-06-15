@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg29" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs33">
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#4d4d4d;
+      }</style>
+  <style id="current-color-scheme-3" type="text/css">.ColorScheme-Text {
+        color:#4d4d4d;
+      }</style>
+  <style id="current-color-scheme-9" type="text/css">.ColorScheme-Text {
+        color:#4d4d4d;
+      }</style>
+  <style id="current-color-scheme-3-3" type="text/css">.ColorScheme-Text {
+        color:#4d4d4d;
+      }</style>
+  <linearGradient id="linearGradient1468" x1="130.16949" x2="130.16949" y1="6.7796607" y2="47.728813" gradientTransform="matrix(1.2851141,0,0,1.2871462,-133.09248,-64.35044)" gradientUnits="userSpaceOnUse">
+   <stop id="stop1449" style="stop-color:#ff771d" offset="0"/>
+   <stop id="stop1451" style="stop-color:#ff944d" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1455" x1="130.16949" x2="130.16949" y1="6.7796607" y2="47.728813" gradientTransform="matrix(1.2851141,0,0,1.2871462,-139.21534,-69.460853)" gradientUnits="userSpaceOnUse">
+   <stop id="stop1493" style="stop-color:#a8a8a8" offset="0"/>
+   <stop id="stop1495" style="stop-color:#d0d0d0" offset="1"/>
+  </linearGradient>
+ </defs>
+ <text id="text879" x="-63.631794" y="23.275766" style="fill:#000000;font-family:sans-serif;font-size:40px;letter-spacing:0px;line-height:1.25;word-spacing:0px" xml:space="preserve"><tspan id="tspan877" x="-63.631794" y="58.666389"/></text>
+ <text id="text879-5" x="-57.254208" y="16.370123" style="fill:#000000;font-family:sans-serif;font-size:40px;letter-spacing:0px;line-height:1.25;word-spacing:0px" xml:space="preserve"><tspan id="tspan877-6" x="-57.254208" y="51.76075"/></text>
+ <text id="text879-8" x="-73.090607" y="53.670811" style="fill:#000000;font-family:sans-serif;font-size:40px;letter-spacing:0px;line-height:1.25;word-spacing:0px" xml:space="preserve"><tspan id="tspan877-7" x="-73.090607" y="89.061432"/></text>
+ <rect id="rect1243" transform="scale(1,-1)" x="8" y="-62.000008" width="41.877151" height="54.889561" style="fill:url(#linearGradient1455);paint-order:stroke fill markers"/>
+ <rect id="rect1466" transform="scale(1,-1)" x="14.122849" y="-56.889549" width="41.877151" height="54.889561" style="fill:url(#linearGradient1468);paint-order:stroke fill markers"/>
+ <path id="path1012" d="m25.061425 22.444769v14h20v-14zm2 2h6v10h-6zm8 0h8v2h-8zm0 4h8v2h-8zm0 4h8v2h-8z" style="fill:#ffffff;paint-order:stroke fill markers"/>
+</svg>

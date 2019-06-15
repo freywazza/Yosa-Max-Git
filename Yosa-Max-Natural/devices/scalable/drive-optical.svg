@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg36" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title id="title2">drive-optical-64px</title>
+ <desc id="desc4">Created with Sketch.</desc>
+ <defs id="defs11">
+  <linearGradient id="linearGradient895" x1="32" x2="32" y1="51.932205" y2="5.5593219" gradientUnits="userSpaceOnUse">
+   <stop id="stop889" style="stop-color:#53e418" offset="0"/>
+   <stop id="stop891" style="stop-color:#80ed54" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path id="Rectangle-1" d="M 9,6.4973661 C 9,5.6703936 9.6680024,5 10.50435,5 h 42.991299 c 0.83083,0 1.50435,0.6644068 1.50435,1.4973661 L 55,52 H 9 Z" style="fill-rule:evenodd;fill:url(#linearGradient895)"/>
+ <path id="Rectangle-3" d="M 9,46.504739 C 9,45.673695 9.6680024,45 10.50435,45 h 42.9913 C 54.32648,45 55,45.668315 55,46.504739 V 53 H 9 Z" style="fill-rule:evenodd;fill:#ffffff"/>
+ <path id="path16-3" d="M 9,51.506398 C 9,50.674437 9.6680024,50 10.50435,50 h 42.991299 c 0.830829,0 1.504349,0.676463 1.504349,1.506398 v 5.987204 C 54.999998,58.325563 54.331996,59 53.495649,59 H 10.50435 C 9.6735202,59 9,58.323537 9,57.493602 Z" style="fill-rule:evenodd;fill:#dcdddd"/>
+ <path id="Rectangle-path" d="m36 52.994141v3h1v-3h-1zm3 0v3h1v-3h-1zm3 0v3h1v-3h-1zm3 0v3h1v-3h-1zm3 0v3h1v-3h-1zm3 0v3h1v-3h-1z" style="fill-rule:evenodd;fill:#4d4d4d"/>
+ <path id="Oval-6" d="m14.5 56c0.828427 0 1.5-0.671573 1.5-1.5s-0.671573-1.5-1.5-1.5-1.5 0.671573-1.5 1.5 0.671573 1.5 1.5 1.5z" style="fill-rule:evenodd;fill:#4d4d4d"/>
+ <path id="Oval" d="m34 25a2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2 2 2 0 0 1 2 2z" style="fill-rule:evenodd;fill:#ffffff"/>
+ <path id="circle25" d="M 42.5,25 A 10.5,10.5 0 0 1 32,35.5 10.5,10.5 0 0 1 21.5,25 10.5,10.5 0 0 1 32,14.5 10.5,10.5 0 0 1 42.5,25 Z" style="fill:none;stroke-width:1.2;stroke:#ffffff"/>
+ <path id="circle27" d="m37.5 25a5.5 5.5 0 0 1-5.5 5.5 5.5 5.5 0 0 1-5.5-5.5 5.5 5.5 0 0 1 5.5-5.5 5.5 5.5 0 0 1 5.5 5.5z" style="fill:none;stroke-width:1.2;stroke:#ffffff"/>
+</svg>

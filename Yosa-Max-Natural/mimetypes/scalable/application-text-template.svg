@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="SVGRoot" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient1455" x1="130.16949" x2="130.16949" y1="6.7796607" y2="47.728813" gradientTransform="matrix(1.2851141,0,0,1.2871462,-139.21535,-69.460856)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#a8a8a8" offset="0"/>
+   <stop style="stop-color:#d0d0d0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1468" x1="130.16949" x2="130.16949" y1="6.7796607" y2="47.728813" gradientTransform="matrix(1.2851141,0,0,1.2871462,-133.09248,-64.350443)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#d3d7da" offset="0"/>
+   <stop style="stop-color:#eeeeee" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path transform="scale(1,-1)" d="m7.9999981-62.000008h41.877155v54.889561h-41.877155z" style="fill:url(#linearGradient1455);paint-order:stroke fill markers"/>
+ <path transform="scale(1,-1)" d="m14.122847-56.889549h41.877155v54.88956h-41.877155z" style="fill:url(#linearGradient1468);paint-order:stroke fill markers"/>
+ <path d="m24.062036 15.445654v1.646484h5.789062v-1.646484zm6.945312 0v1.646484h4.632813v-1.646484zm5.791016 0v1.646484h6.949219v-1.646484zm-12.736328 3.292969v1.646484h8.105469v-1.646484zm9.263672 0v1.646484h3.472656v-1.646484zm4.630859 0v1.646484h8.105469v-1.646484zm-13.894531 3.294922v1.646484h9.263672v-1.646484zm10.419922 0v1.646484h5.791015v-1.646484zm6.947265 0v1.646484h4.632813v-1.646484zm-17.367187 3.292968v1.646485h6.945312v-1.646485zm8.105469 0v1.646485h3.472656v-1.646485zm4.630859 0v1.646485h4.630859v-1.646485zm5.789062 0v1.646485h3.47461v-1.646485zm-18.52539 3.294922v1.646484h4.666015v-1.646484zm5.789062 0v1.646484h8.105469v-1.646484z" style="fill-rule:evenodd;fill:#1e9ff4;stroke-width:.89720726"/>
+ <path d="m24.061421 35.210059v1.645386h11.57868v-1.645386zm12.736041 0v1.645386h5.78934v-1.645386zm6.949238 0v1.645386h2.314722v-1.645386zm-19.685279 3.293359v1.64797h4.667511v-1.64797zm5.78934 0v1.64797h9.26396v-1.64797zm10.42132 0v1.64797h4.664975v-1.64797zm-16.21066 3.293356v1.647971h8.106599v-1.647971zm9.263958 0v1.647971h3.472083v-1.647971z" style="fill-rule:evenodd;fill:#4d4d4d;stroke-width:.89720726"/>
+</svg>

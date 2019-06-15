@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg4359" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs4361">
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#dfdfdf;
+      }</style>
+  <style id="current-color-scheme-3" type="text/css">.ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }</style>
+  <style id="current-color-scheme-6" type="text/css">.ColorScheme-Text {
+        color:#dfdfdf;
+      }</style>
+ </defs>
+ <g id="g844" transform="translate(-1,-1)" style="fill:#dfdfdf">
+  <path id="path829-7" d="m3 4v16h18v-14h-9v-0.5c0-0.831-0.669-1.5-1.5-1.5h-6.5zm2 4h14v10h-14v-9z" style="fill:#dfdfdf"/>
+  <g id="g995" style="fill:#dfdfdf">
+   <g id="g987" style="fill:#dfdfdf">
+    <rect id="rect839" transform="scale(1,-1)" x="14.171573" y="-15" width="2" height="5" style="fill:#dfdfdf;paint-order:stroke fill markers"/>
+    <path id="rect894" d="m18 13.171573-1.06066-1.06066-1.767767 1.767766-1.767767-1.767766-1.06066 1.06066 2.828427 2.828427z" style="fill:#dfdfdf;paint-order:normal"/>
+   </g>
+   <g id="g983" style="fill:#dfdfdf">
+    <rect id="rect957" x="7.8284273" y="11" width="2" height="5" style="fill:#dfdfdf;paint-order:stroke fill markers"/>
+    <path id="path959" d="m 11.656854,12.828427 -1.06066,1.06066 L 8.8284271,12.121321 7.0606602,13.889087 6,12.828427 8.8284271,10 Z" style="fill:#dfdfdf;paint-order:normal"/>
+   </g>
+  </g>
+ </g>
+</svg>

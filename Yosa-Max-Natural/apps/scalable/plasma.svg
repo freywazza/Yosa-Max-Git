@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg5453" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs5455">
+  <linearGradient id="linearGradient5578" x1="24.138405" x2="24.276943" y1="35.79874" y2="6.2055192" gradientTransform="matrix(.91666665 0 0 .91666665 1.9999893 .1666648)" gradientUnits="userSpaceOnUse">
+   <stop id="stop919" style="stop-color:#2f4e6d" offset="0"/>
+   <stop id="stop921" style="stop-color:#3b6289" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path id="rect4254" d="m18.499989 34.083331v10.083334h11v-10.083334z" style="fill:#999999"/>
+ <rect id="rect4173" x="2" y="3.8333354" width="44" height="32.999996" style="fill:#4d4d4d"/>
+ <rect id="rect4295" x="13.916666" y="43.249973" width="20.166666" height=".91664255" style="fill:#797474"/>
+ <path id="path3072" d="m24.916656 34.999999a0.91666665 0.91666665 0 0 1-0.916667 0.916666 0.91666665 0.91666665 0 0 1-0.916667-0.916666 0.91666665 0.91666665 0 0 1 0.916667-0.916668 0.91666665 0.91666665 0 0 1 0.916667 0.916668z" style="fill-rule:evenodd;fill:#dfdfdf;opacity:.75"/>
+ <rect id="rect4228" x="4.4573684" y="5.8455777" width="39.279533" height="27.239298" ry="0" style="fill:url(#linearGradient5578)"/>
+ <g id="g952" transform="matrix(.70296993 0 0 .70161292 7.4188576 2.7274215)" style="fill:#c1cede;stroke-width:1.423911">
+  <path id="path840" d="m17.99287 12.426383a1.5634825 1.5629689 0 0 0-1.564511 1.562925 1.5634825 1.5629689 0 0 0 1.564511 1.564508 1.5634825 1.5629689 0 0 0 1.56292-1.564508 1.5634825 1.5629689 0 0 0-1.56292-1.562925z" style="fill:#c1cede;stroke-width:2.7315986"/>
+  <path id="path838" d="m27.332399 12.222532-3.15977 3.350146 4.85897 5.152418-5.031599 6.071469 3.332399 3.092169 7.773338-9.421616z" style="fill:#c1cede;stroke-width:2.7315986"/>
+  <path id="path835" d="m14.831012 20.781189a2.4867295 2.4864369 0 0 0-2.48585 2.485852 2.4867295 2.4864369 0 0 0 2.48585 2.487365 2.4867295 2.4864369 0 0 0 2.487366-2.487365 2.4867295 2.4864369 0 0 0-2.487366-2.485852z" style="fill:#c1cede;stroke-width:2.7315986"/>
+  <path id="path871" d="m20.868947 28.997621a3.2456058 3.2453878 0 0 0-3.246106 3.246928 3.2456058 3.2453878 0 0 0 3.246106 3.245282 3.2456058 3.2453878 0 0 0 3.246104-3.245282 3.2456058 3.2453878 0 0 0-3.246104-3.246928z" style="fill:#c1cede;stroke-width:2.7315986"/>
+ </g>
+</svg>

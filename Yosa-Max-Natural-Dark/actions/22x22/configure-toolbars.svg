@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg6" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs3051">
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#dfdfdf;
+      }</style>
+  <style id="current-color-scheme-3" type="text/css">.ColorScheme-Text {
+        color:#dfdfdf;
+      }</style>
+ </defs>
+ <circle id="circle818" cx="-4.5334625" cy="19.752691" r="0" style="fill:#dfdfdf"/>
+ <rect id="rect832" x="3" y="4.5" width="16" height="2" style="fill:#dfdfdf"/>
+ <rect id="rect836" x="10" y="3" width="2" height="5" style="fill:#dfdfdf"/>
+ <rect id="rect856" transform="scale(-1,1)" x="-19" y="15.5" width="16" height="2" style="fill:#dfdfdf"/>
+ <rect id="rect858" transform="scale(-1,1)" x="-7" y="14" width="2" height="5" style="fill:#dfdfdf"/>
+ <rect id="rect860" x="3" y="10" width="16" height="2" style="fill:#dfdfdf"/>
+ <rect id="rect862" x="15" y="8.5" width="2" height="5" style="fill:#dfdfdf"/>
+</svg>

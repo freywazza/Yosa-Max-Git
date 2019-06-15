@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg39" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs43">
+  <linearGradient id="linearGradient1455-5" x1="130.16949" x2="130.16949" y1="6.7796607" y2="47.728813" gradientTransform="matrix(1.2851141,0,0,1.2871462,-139.21534,-69.460855)" gradientUnits="userSpaceOnUse">
+   <stop id="stop1493" style="stop-color:#a8a8a8" offset="0"/>
+   <stop id="stop1495" style="stop-color:#d0d0d0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1468-6" x1="130.16949" x2="130.16949" y1="6.0678883" y2="47.728813" gradientTransform="matrix(1.2851141,0,0,1.2871462,-133.09249,-64.350405)" gradientUnits="userSpaceOnUse">
+   <stop id="stop1449-9" style="stop-color:#ffb40d" offset="0"/>
+   <stop id="stop1451-1" style="stop-color:#ffcc5d" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect id="rect1243-9" transform="scale(1,-1)" x="7.9999995" y="-62.000011" width="41.877151" height="54.889561" style="fill:url(#linearGradient1455-5);paint-order:stroke fill markers"/>
+ <rect id="rect1466-3" transform="scale(1,-1)" x="14.122849" y="-56.889545" width="41.877151" height="54.889561" style="fill:url(#linearGradient1468-6);paint-order:stroke fill markers"/>
+ <text id="text879" x="-126.0047" y="23.54694" style="fill:#000000;font-family:sans-serif;font-size:40px;letter-spacing:0px;line-height:1.25;word-spacing:0px" xml:space="preserve"><tspan id="tspan877" x="-126.0047" y="58.937561"/></text>
+ <text id="text879-5" transform="scale(.99364346 1.0063972)" x="31.644129" y="28.163996" style="fill:#000000;font-family:sans-serif;font-size:49.582409px;letter-spacing:0px;line-height:1.25;word-spacing:0px" xml:space="preserve"><tspan id="tspan877-3" x="31.644129" y="72.032806"/></text>
+ <text id="text879-1" transform="scale(.99364346 1.0063972)" x="-91.709587" y="33.897156" style="fill:#000000;font-family:sans-serif;font-size:49.582409px;letter-spacing:0px;line-height:1.25;word-spacing:0px" xml:space="preserve"><tspan id="tspan877-2" x="-91.709587" y="77.765968"/></text>
+ <text id="text879-7" x="-244.98289" y="33.830395" style="fill:#000000;font-family:sans-serif;font-size:40px;letter-spacing:0px;line-height:1.25;word-spacing:0px" xml:space="preserve"><tspan id="tspan877-5" x="-244.98289" y="69.221024"/></text>
+ <text id="text879-5-3" transform="scale(.99364346 1.0063972)" x="-88.0952" y="38.382084" style="fill:#000000;font-family:sans-serif;font-size:49.582409px;letter-spacing:0px;line-height:1.25;word-spacing:0px" xml:space="preserve"><tspan id="tspan877-3-5" x="-88.0952" y="82.250893"/></text>
+ <text id="text879-1-6" transform="scale(.99364346 1.0063972)" x="-211.44891" y="44.115242" style="fill:#000000;font-family:sans-serif;font-size:49.582409px;letter-spacing:0px;line-height:1.25;word-spacing:0px" xml:space="preserve"><tspan id="tspan877-2-2" x="-211.44891" y="87.984055"/></text>
+ <g id="g1145" transform="matrix(.90906126 0 0 .90906126 -64.764051 1.4488452)" style="fill:#ffffff;stroke-width:1.1000358">
+  <path id="path29" d="m109.48438 19.796875a1.6490614 1.6490614 0 0 0-0.9375 2.970703l1.87304 1.441406h-9.11133a1.6490614 1.6490614 0 1 0 0 3.296875h4.13282l-6.751957 4.904297a1.6490614 1.6490614 0 1 0 1.937497 2.667969l3.45117-2.505859a8.7941 8.7941 0 0 0-0.0215 0.429687 8.7941 8.7941 0 0 0 8.79297 8.794922 8.7941 8.7941 0 0 0 8.79492-8.794922 8.7941 8.7941 0 0 0-3.82226-7.253906 1.6490614 1.6490614 0 0 0-0.11915-0.09961l-7.14648-5.496094a1.6490614 1.6490614 0 0 0-1.07226-0.355469zm3.36523 7.708984a5.4963155 5.4963155 0 0 1 5.49609 5.496094 5.4963155 5.4963155 0 0 1-5.49609 5.496094 5.4963155 5.4963155 0 0 1-5.49609-5.496094 5.4963155 5.4963155 0 0 1 5.49609-5.496094z" style="fill:#ffffff;stroke-width:.60461509"/>
+  <circle id="circle33" transform="scale(-1)" cx="-112.84998" cy="-33.002472" r="2.1985221" style="fill:#ffffff;stroke-width:.60461509"/>
+ </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="linearGradient978" x1="76.710854" x2="76.710854" y1="48.721821" y2="5.09167" gradientTransform="translate(-52.762712,-3.0169488)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#ff771d" offset="0"/>
+   <stop style="stop-color:#ff944d" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path d="m6 2h36c2.216 0 4 1.784 4 4v36c0 2.216-1.784 4-4 4h-36c-2.216 0-4-1.784-4-4v-36c0-2.216 1.784-4 4-4z" style="fill:url(#linearGradient978);font-variant-east_asian:normal;paint-order:stroke fill markers"/>
+ <path d="m7 4c-1.6447028 0-3 1.3552972-3 3v34c0 1.644703 1.3552972 3 3 3h34c1.644703 0 3-1.355297 3-3v-34c0-1.6447028-1.355297-3-3-3zm0 2h34c0.571297 0 1 0.4287028 1 1v34c0 0.571297-0.428703 1-1 1h-34c-0.5712972 0-1-0.428703-1-1v-34c0-0.5712972 0.4287028-1 1-1z" style="color-rendering:auto;color:#000000;dominant-baseline:auto;fill:#ffffff;font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;image-rendering:auto;isolation:auto;mix-blend-mode:normal;paint-order:stroke fill markers;shape-padding:0;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ <path d="m15.342383 12.974419c-3.157813-0.07138-3.157813 4.702241 0 4.630859h12.158203c1.59346 0.169727 2.87983 0.827097 2.894532 2.027344 0 1.368473-1.347254 1.839495-2.894532 2.025391h-12.158203c-1.279404-2.13e-4 -2.316619 1.037002-2.316406 2.316406v8.683594c-0.07138 3.157813 4.702241 3.157813 4.630859 0v-6.367188h9.84375s1.685556 0.03287 3.494141-0.720703c1.808585-0.753577 4.03125-2.840131 4.03125-5.9375 0-3.097368-2.222665-5.183923-4.03125-5.9375s-3.494141-0.720703-3.494141-0.720703z" style="color-rendering:auto;color:#000000;dominant-baseline:auto;fill:#ffffff;font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-padding:0;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+</svg>

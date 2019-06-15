@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg5453" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs5455">
+  <linearGradient id="linearGradient833" x1="32.010437" x2="31.962496" y1="57.89262" y2="15.119835" gradientTransform="translate(0,-3.8146973e-6)" gradientUnits="userSpaceOnUse">
+   <stop id="stop827" style="stop-color:#ffca28" offset="0"/>
+   <stop id="stop829" style="stop-color:#ffd351" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path id="folderTab-3" d="m4 6c-0.55122 0.05512-1 0.446-1 1v42h58v-38c0-1-1-1-1-1h-27c-2-4-6-4-6-4h-22z" style="fill-rule:evenodd;fill:#ffb437"/>
+ <path id="folderPaper-6" d="m7 13h50v32h-50z" style="color-rendering:auto;color:#000000;fill:#fffbec;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;white-space:normal"/>
+ <path id="folderFront-2" d="m39 14.999996s-4 0-6 4h-31s-0.1319813 0.01691-0.2890625 0.05859c-0.045956 0.01404-0.091922 0.02277-0.1347656 0.04297-0.2742277 0.109838-0.5761719 0.34321-0.5761719 0.89844v37c0 0.55397 0.44603 1 1 1h60c0.55397 0 1-0.44603 1-1v-41c0-0.55397-0.44603-1-1-1h-1z" style="fill-rule:evenodd;fill:url(#linearGradient833)"/>
+ <path id="path867" d="m23 26.000001v21.999999h18v-21.999999zm1.5 1.571428h3v3.928572h-3zm12 0h3v3.928572h-3v-3.142857zm-12 5.5h3v3.142857h-3zm12 0h3v3.142857h-3zm-7.5 3.142857h6v1.571429h-6v-1.427176zm-4.5 1.571429h3v3.142857h-3zm12 0h3v3.142857h-3zm-12 4.714285h3v3.928571h-3zm12 0h3v3.928571h-3z" style="fill:#f9f9f9"/>
+</svg>

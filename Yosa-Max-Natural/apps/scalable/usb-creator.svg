@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg15" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title id="title2">深度启动盘制作工具-48px</title>
+ <desc id="desc4">Created with Sketch.</desc>
+ <defs id="defs6">
+  <linearGradient id="linearGradient849" x1="23.329977" x2="38.863068" y1="25.594931" y2="10.340694" gradientUnits="userSpaceOnUse">
+   <stop id="stop843" style="stop-color:#2e2e2e" offset="0"/>
+   <stop id="stop845" style="stop-color:#3e3e3e" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient834" x1="7.9322033" x2="22.983051" y1="40.271187" y2="25.220339" gradientUnits="userSpaceOnUse">
+   <stop id="stop828" style="stop-color:#e8cb12" offset="0"/>
+   <stop id="stop830" style="stop-color:#efd532" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path id="Combined-Shape" d="m24.81436 40.965858c-4.492287 4.492287-12.480823 3.787187-16.97284-0.70483-4.4910293-4.491029-5.1963847-12.481285-0.70483-16.97284l8.1294517-8.129451 17.677669 17.67767zm-14.805404-2.872266c-2.4187077-2.418708-3.6517721-6.510532-2.5451939-9.524031l12.020815 12.020815c-3.015212 1.105223-7.061743-0.08291-9.475621-2.496784z" style="fill-rule:evenodd;fill:url(#linearGradient834)"/>
+ <path id="Rectangle-154" d="m27.318645 3.1546429c0.777454-0.7774538 2.036863-0.7785471 2.824461 0.00905l14.844158 14.844159c0.782453 0.782453 0.781624 2.051888 0.0091 2.82446l-12.73448 12.734431-17.677669-17.677669z" style="fill-rule:evenodd;fill:url(#linearGradient849)"/>
+ <path id="path11" d="m30.140564 5.9895789 1.414213 1.4142135-5.656854 5.6568546-1.414214-1.414214zm10.606601 10.606602 1.414214 1.414213-5.656854 5.656854-1.414214-1.414213zm-7.778174-6.363961 1.414213 1.414213-4.24264 4.242641-1.414214-1.414214zm3.535534 3.535534 1.414213 1.414213-4.24264 4.242641-1.414214-1.414214zm-13.435029 4.949747 1.414213 1.414213-1.414213 1.414214-1.414214-1.414214zm4.949747 4.949747 1.414214 1.414214-1.414214 1.414213-1.414213-1.414213z" style="fill-rule:evenodd;fill:#ffeb95"/>
+</svg>

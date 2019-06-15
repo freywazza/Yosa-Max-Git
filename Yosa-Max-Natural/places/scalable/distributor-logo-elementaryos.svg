@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg5453" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs5455">
+  <linearGradient id="linearGradient3426" x1="399.57144" x2="399.57144" y1="545.79797" y2="517.79797" gradientUnits="userSpaceOnUse">
+   <stop id="stop4234-0" style="stop-color:#3889e9" offset="0"/>
+   <stop id="stop4236" style="stop-color:#5ea5fb" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4181" x1="399.9939" x2="399.9939" y1="545.13873" y2="518.13873" gradientUnits="userSpaceOnUse">
+   <stop id="stop4266" style="stop-color:#0a80fd" offset="0"/>
+   <stop id="stop4268" style="stop-color:#56c5fa" offset="1"/>
+  </linearGradient>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  <style id="current-color-scheme-8" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  <style id="current-color-scheme-7" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+ </defs>
+ <g id="layer1" transform="translate(-384.57143,-499.798)">
+  <g id="g4471" transform="matrix(1.0931221,0,0,1.0931221,33.310366,-50.486049)">
+   <g id="g4320" transform="matrix(.93077444 0 0 .93077444 23.572011 36.133708)">
+    <g id="layer1-3" transform="matrix(1.5444819,0,0,1.5444819,-275.17538,-295.73877)">
+     <circle id="path3377" cx="400.57138" cy="531.79791" r="13.999958" style="fill:url(#linearGradient4181)"/>
+     <circle id="ellipse4233" cx="400.57138" cy="531.79791" r="0" style="fill:url(#linearGradient3426)"/>
+    </g>
+   </g>
+   <g id="layer1-4" transform="matrix(.92479074 0 0 .92479074 -39.880751 35.4732)" style="opacity:.85">
+    <g id="g4094" transform="matrix(.31685195 0 0 .31685195 393.94224 216.75374)" style="fill:#ffffff;stroke-width:1.578024;stroke:#ffffff">
+     <path id="path4096" d="m64 940.36218c-26.509667 0-48 21.49034-48 48 0 26.50972 21.490333 48.00002 48 48.00002 26.509664 0 48-21.4903 48-48.00002 0-26.50966-21.490336-48-48-48zm0 4c20.15479 0 37.14462 13.55176 42.355 32.04-4.4877 9.25637-10.873381 17.59038-18.650002 24.32502-3.735795 3.2352-7.814534 6.1193-12.32 8.15-4.505465 2.0307-9.461145 3.1829-14.394998 2.9-3.706902-0.2126-7.368725-1.2452-10.615-3.045 8.603218-4.6618 16.365742-10.87737 22.720002-18.32002 4.170803-4.88521 7.819942-10.43709 9.224998-16.705 0.702528-3.13395 0.821581-6.4161 0.164998-9.56-0.656582-3.1439-2.110188-6.1399-4.309996-8.48-2.149082-2.28613-4.97033-3.90553-7.995002-4.74-3.024672-0.83446-6.24345-0.89907-9.33-0.335-6.173101 1.12814-11.684554 4.71584-16.105 9.17-7.79168 7.8511-12.608581 18.92915-11.725 29.955 0.441789 5.51292 2.289248 10.93012 5.455 15.46502 0.706642 1.0122 1.483501 1.9764 2.315 2.89-4.611828 1.614-9.386995 2.7629-14.23 3.41-4.15805-6.7188-6.56-14.638-6.56-23.12002 0-24.30053 19.69947-44 44-44zm0.28 8.89c3.093024 4e-3 6.207066 0.94057 8.675002 2.805 2.223488 1.67977 3.871027 4.06951 4.804998 6.695s1.173658 5.47662 0.855002 8.245c-0.637319 5.53677-3.430458 10.61442-6.804999 15.05-5.975053 7.85375-13.917093 14.13972-22.750003 18.54002-0.904118 0.4504-1.822565 0.8785-2.745 1.29-1.921973-1.6819-3.569314-3.6768-4.825-5.90002-2.623798-4.64556-3.489056-10.16402-2.98-15.475 0.509056-5.31097 2.331648-10.42962 4.78-15.17 2.838755-5.49625 6.70822-10.70239 12.125-13.69 2.70839-1.4938 5.771973-2.39419 8.865-2.39zm43.325 29.22c0.25778 1.9268 0.395 3.89265 0.395 5.89 0 24.30052-19.699469 44.00002-44 44.00002-13.647425 0-25.844438-6.2128-33.915-15.965 4.98138-1.1314 9.850072-2.7565 14.52-4.825 2.042194 1.5553 4.297558 2.8309 6.695 3.75 6.904163 2.6469 14.742694 2.2639 21.730003-0.155 6.987303-2.4189 13.183469-6.7606 18.584999-11.81 6.434617-6.01522 11.859848-13.10515 15.989998-20.88502z" style="fill:#ffffff;stroke-width:1.578024;stroke:#ffffff"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

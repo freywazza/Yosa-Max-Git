@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg5453" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs5455">
+  <linearGradient id="linearGradient833" x1="32.010437" x2="31.962496" y1="57.89262" y2="15.119835" gradientTransform="translate(0,-3.8146973e-6)" gradientUnits="userSpaceOnUse">
+   <stop id="stop827" style="stop-color:#ffca28" offset="0"/>
+   <stop id="stop829" style="stop-color:#ffd351" offset="1"/>
+  </linearGradient>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#4d4d4d;
+      }</style>
+  <style id="current-color-scheme-5" type="text/css">.ColorScheme-Text {
+        color:#4d4d4d;
+      }</style>
+  <style id="current-color-scheme-35" type="text/css">.ColorScheme-Text {
+        color:#000000;
+      }</style>
+  <style id="current-color-scheme-3" type="text/css">.ColorScheme-Text {
+        color:#000000;
+      }</style>
+  <style id="current-color-scheme-9" type="text/css">.ColorScheme-Text {
+        color:#000000;
+      }</style>
+  <style id="current-color-scheme-3-3" type="text/css">.ColorScheme-Text {
+        color:#000000;
+      }</style>
+  <style id="current-color-scheme-2" type="text/css">.ColorScheme-Text {
+        color:#000000;
+      }</style>
+  <style id="current-color-scheme-0" type="text/css">.ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }</style>
+  <style id="current-color-scheme-37" type="text/css">.ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }</style>
+  <style id="current-color-scheme-3-5" type="text/css">.ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }</style>
+  <style id="current-color-scheme-6" type="text/css">.ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }</style>
+ </defs>
+ <path id="folderTab-3" d="m4 6c-0.55122 0.05512-1 0.446-1 1v42h58v-38c0-1-1-1-1-1h-27c-2-4-6-4-6-4h-22z" style="fill-rule:evenodd;fill:#ffb437"/>
+ <path id="folderPaper-6" d="m7 13h50v32h-50z" style="color-rendering:auto;color:#000000;fill:#fffbec;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;white-space:normal"/>
+ <path id="folderFront-2" d="m39 14.999996s-4 0-6 4h-31s-0.1319813 0.01691-0.2890625 0.05859c-0.045956 0.01404-0.091922 0.02277-0.1347656 0.04297-0.2742277 0.109838-0.5761719 0.34321-0.5761719 0.89844v37c0 0.55397 0.44603 1 1 1h60c0.55397 0 1-0.44603 1-1v-41c0-0.55397-0.44603-1-1-1h-1z" style="fill-rule:evenodd;fill:url(#linearGradient833)"/>
+ <path id="path827" d="m32 26c-6.075131 0-11 4.924868-11 11s4.924869 11 11 11c6.075132 0 11-4.924869 11-11 0-6.075132-4.924868-11-11-11zm-1.03125 4.125h2.0625v8.25h-2.0625zm0 11h2.0625v2.75h-2.0625z" style="fill:#f9f9f9"/>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg788" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <linearGradient id="a" x1="409.52748" x2="409.68733" y1="544.26275" y2="501.58102" gradientTransform="translate(-384.57143,-499.798)" gradientUnits="userSpaceOnUse">
+  <stop id="stop2" stop-color="#141414" offset="0"/>
+  <stop id="stop4" stop-color="#2d2d2f" offset="1"/>
+ </linearGradient>
+ <linearGradient id="b" x1="394.64522" x2="396.12131" y1="504.61519" y2="545.37864" gradientTransform="translate(-384.57143,-499.798)" gradientUnits="userSpaceOnUse">
+  <stop id="stop7" stop-color="#f4f4f4" offset="0"/>
+  <stop id="stop9" stop-color="#dbdbdb" offset="1"/>
+ </linearGradient>
+ <linearGradient id="c" x1="32" x2="32" y1="1017.8702" y2="1015.3622" gradientTransform="matrix(2.0479406,0,0,1.8000001,1.08647,-789.55189)" gradientUnits="userSpaceOnUse" spreadMethod="reflect">
+  <stop id="stop12" stop-color="#0c3" offset="0"/>
+  <stop id="stop14" stop-color="#00cc17" stop-opacity="0" offset="1"/>
+ </linearGradient>
+ <linearGradient id="d" x1="409.05099" x2="405.694" y1="539.30409" y2="507.01307" gradientTransform="translate(-384.57143,-499.798)" gradientUnits="userSpaceOnUse">
+  <stop id="stop17" stop-color="#dcdcdc" offset="0"/>
+  <stop id="stop19" stop-color="#f0f0f0" offset="1"/>
+ </linearGradient>
+ <path id="rect22" d="m7.8859445 1.4521526h32.22813c1.001948 0 1.808571 0.8066227 1.808571 1.808571v41.478572c0 1.001949-0.806623 1.808571-1.808571 1.808571h-32.22813c-1.0019483 0-1.808571-0.806622-1.808571-1.808571v-41.478572c0-1.0019483 0.8066227-1.808571 1.808571-1.808571z" style="fill-rule:evenodd;fill:url(#a);stroke-linecap:round;stroke-width:.90428501;stroke:url(#b)"/>
+ <path id="rect24" d="m11.316467 6.0161176h25.367043c0.500974 0 0.904285 0.4033111 0.904285 0.904285v34.159153c0 0.500974-0.403311 0.904285-0.904285 0.904285h-25.367043c-0.500974 0-0.904285-0.403311-0.904285-0.904285v-34.159153c0-0.5009739 0.403311-0.904285 0.904285-0.904285z" style="fill-rule:evenodd;fill:url(#d)"/>
+ <g id="g784" transform="matrix(.38739719 0 0 .40584455 -2.60199 -405.41681)">
+  <path id="path780" d="m23.613815 1038.1h90.109395v9h-90.109395z" style="fill:url(#c);opacity:.8"/>
+  <path id="path782" d="m23.613815 1042.0812h90.109395v1.0187h-90.109395z" style="fill:#ffffff;opacity:.8"/>
+ </g>
+</svg>

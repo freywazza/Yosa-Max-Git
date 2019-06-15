@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg27" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs31">
+  <linearGradient id="linearGradient1455" x1="130.16949" x2="130.16949" y1="6.7796607" y2="47.728813" gradientTransform="matrix(1.2851141,0,0,1.2871462,-139.21534,-69.460888)" gradientUnits="userSpaceOnUse">
+   <stop id="stop1493" style="stop-color:#a8a8a8" offset="0"/>
+   <stop id="stop1495" style="stop-color:#d0d0d0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1468" x1="130.16949" x2="130.16949" y1="6.7796607" y2="47.728813" gradientTransform="matrix(1.2851141,0,0,1.2871462,-133.09248,-64.350437)" gradientUnits="userSpaceOnUse">
+   <stop id="stop1449" style="stop-color:#1b8bf3" offset="0"/>
+   <stop id="stop1451" style="stop-color:#20b8f9" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect id="rect1243" transform="scale(1,-1)" x="7.9999986" y="-62.000011" width="41.877151" height="54.889561" style="fill:url(#linearGradient1455);paint-order:stroke fill markers"/>
+ <rect id="rect1466" transform="scale(1,-1)" x="14.12285" y="-56.889549" width="41.877151" height="54.889561" style="fill:url(#linearGradient1468);paint-order:stroke fill markers"/>
+ <g id="text830" style="fill:#ffffff" aria-label="D">
+  <path id="path832" d="m25.67476 38.778102h8.48c6.106666 0 10.293333-3.68 10.293333-9.333333s-4.186667-9.333333-10.293333-9.333333h-8.48zm4.32-3.546667v-11.573333h3.946667c3.706666 0 6.133333 2.213334 6.133333 5.786667s-2.426667 5.786666-6.133333 5.786666z" style="fill:#ffffff"/>
+ </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg5453" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="defs5455">
+  <linearGradient id="linearGradient866" x1="13.211061" x2="13.211061" y1="18.742458" y2="9.4583139" gradientUnits="userSpaceOnUse">
+   <stop id="stop860" style="stop-color:#fdf124" offset="0"/>
+   <stop id="stop862" style="stop-color:#fdf446;stop-opacity:.99607843" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient890" x1="416.77542" x2="416.77542" y1="545.77496" y2="501.51627" gradientTransform="translate(-384.57143,-483.798)" gradientUnits="userSpaceOnUse">
+   <stop id="stop884" style="stop-color:#cd2b2b" offset="0"/>
+   <stop id="stop886" style="stop-color:#da4646" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path id="folderTab-3" d="m4 3.33141c-0.55122 0.0625-1 0.50604-1 1.13462v47.65384h58v-43.11538c0-1.13462-1-1.13462-1-1.13462h-27c-2-4.53846-6-4.53846-6-4.53846h-22z" style="fill-rule:evenodd;fill:#9a2020"/>
+ <path id="folderPaper-6" d="m7 11.27372h50v36.3077h-50z" style="color-rendering:auto;color:#000000;fill:#ffffff;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;white-space:normal"/>
+ <polygon id="polygon19" transform="matrix(1.6625589,0,0,1.6422598,-5.3984279,-12.913187)" points="37.746 38.166 7.008 38.154 7.008 18.824 11.711 9.333 37.934 22.329" style="fill:url(#linearGradient866)"/>
+ <path id="folderFront-2" d="m39 13.54295s-4 0-6 4.53846h-31s-0.13198 0.0192-0.28906 0.0665c-0.046 0.0159-0.0919 0.0258-0.13477 0.0487-0.27423 0.12463-0.57617 0.38942-0.57617 1.01939v41.98077c0 0.62854 0.44603 1.13461 1 1.13461h60c0.55397 0 1-0.50607 1-1.13461v-46.51923c0-0.62855-0.44603-1.13462-1-1.13462h-1z" style="fill-rule:evenodd;fill:url(#linearGradient890)"/>
+ <path id="path938" d="m32.00254 24.624406 14.065054 11.921909-1.818924 2.145888-12.248873-10.383244-12.248873 10.383244-1.818924-2.145888 5.627119-4.769869v-7.15204h2.813559v4.767112l5.624376-4.767112h0.0056zm11.251494 9.847458v18.288136h-22.508474v-18.288136h2.813559v15.474576h5.627119v-9.847457h5.627118v9.847457h5.627119v-15.474576z" style="color-rendering:auto;color:#000000;fill:#ffffff;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;white-space:normal"/>
+</svg>

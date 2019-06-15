@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg35" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title id="title2">drive-removable-media-48px</title>
+ <desc id="desc4">Created with Sketch.</desc>
+ <defs id="defs11">
+  <linearGradient id="linearGradient947" x1="24.783251" x2="24.563965" y1="38.834179" y2="4.6148915" gradientUnits="userSpaceOnUse">
+   <stop id="stop941" style="stop-color:#a1a5ae" offset="0"/>
+   <stop id="stop943" style="stop-color:#c7cacf" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient939" x1="25.18561" x2="24.389" y1="29.590219" y2="6.9970002" gradientTransform="translate(-.499842 1.452153)" gradientUnits="userSpaceOnUse">
+   <stop id="stop925" style="stop-color:#0016f9" offset="0"/>
+   <stop id="stop927" style="stop-color:#0084fc" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path id="Rectangle-1" d="m8 4h32c0.554 0 1 0.446 1 1v33c0 0.554-0.446 1-1 1h-32c-0.554 0-1-0.446-1-1v-33c0-0.554 0.446-1 1-1z" style="fill-rule:evenodd;fill:url(#linearGradient947)"/>
+ <path id="Rectangle-3" d="m7 34h34v6h-34z" style="fill-rule:evenodd;fill:#ffffff"/>
+ <path id="rect16" d="m8 38h32c0.554 0 1 0.446 1 1v4c0 0.554-0.446 1-1 1h-32c-0.554 0-1-0.446-1-1v-4c0-0.554 0.446-1 1-1z" style="fill-rule:evenodd;fill:#bbbec4"/>
+ <path id="Rectangle-path" d="m26.986328 39.996094v2h1v-2h-1zm2 0v2h1v-2h-1zm2 0v2h1v-2h-1zm2 0v2h1v-2h-1zm2 0v2h1v-2h-1zm2 0v2h1v-2h-1z" style="fill-rule:evenodd;fill:#2e2e2f"/>
+ <path id="Oval" d="m13 41a1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1 1 1 0 0 1 1 1z" style="fill-rule:evenodd;fill:#2c2c2e"/>
+ <path id="path36" d="m23.889158 8.449153c-6.075 0-11 4.925-11 11s4.925 11 11 11 11-4.925 11-11-4.924-11-11-11zm0 20.533c-5.265 0-9.533-4.268-9.533-9.533s4.268-9.533 9.533-9.533 9.533 4.268 9.533 9.533-4.267 9.533-9.533 9.533zm3.698-3.933-5.181-5.18c-0.284-0.284-0.898-0.262-1.3-0.252-0.817 0.021-1.628-0.284-2.239-0.896-0.887-0.887-1.289-2.244-0.52-3.77l2.012 2.012c0.415-0.114 0.966-0.662 1.081-1.081l-2.012-2.012c1.543-0.777 2.881-0.368 3.77 0.52 0.602 0.602 0.917 1.413 0.896 2.24-0.01 0.402-0.096 1.033 0.188 1.317l5.175 5.185c0.322 0.322 0.662 1.219 0.017 1.864-0.648 0.649-1.429 0.511-1.887 0.053z" style="fill:url(#linearGradient939)"/>
+</svg>

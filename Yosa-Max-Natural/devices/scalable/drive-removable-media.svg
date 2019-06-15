@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg35" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+ <title id="title2">drive-removable-media-usb-64px</title>
+ <desc id="desc4">Created with Sketch.</desc>
+ <defs id="defs11">
+  <linearGradient id="linearGradient-1" x1="32.345956" x2="32.345956" y1="5.6248555" y2="50.478229" gradientTransform="scale(.98930451 1.0108111)" gradientUnits="userSpaceOnUse">
+   <stop id="stop6" stop-color="#CE85FE" offset="0"/>
+   <stop id="stop8" stop-color="#A170FC" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g id="g842">
+  <path id="Rectangle-1" d="M 9,6.4973661 C 9,5.6703936 9.6680024,5 10.50435,5 h 42.991299 c 0.83083,0 1.50435,0.6644068 1.50435,1.4973661 L 55,52 H 9 Z" style="fill-rule:evenodd;fill:url(#linearGradient-1)"/>
+  <g id="Group" transform="translate(25.333333,10.666667)" style="fill-rule:evenodd;fill:#ffffff">
+   <circle id="Oval" cx="7.1666665" cy="24.833334" r="2.5"/>
+   <polygon id="Shape" points="7.1666667 0.33333333 4.1666667 5.3333333 10.166667 5.3333333"/>
+   <circle id="circle17" cx="2.6573334" cy="11.324" r="1.9906666"/>
+   <rect id="Rectangle-path" x="9.666667" y="8.333333" width="4" height="4"/>
+   <polygon id="polygon20" points="6.6666667 25.333333 7.6666667 25.333333 7.6666667 3.3333333 6.6666667 3.3333333 6.6666667 23.074293"/>
+   <path id="path22" d="m11.402667 10.132v3.217333c0 0.533334-0.06133 0.742667-0.484 1.145334l-3.6560003 2.561333v1.096l4.2706663-3.094667s0.736-0.441333 0.736-1.637333h-0.0027v-3.289333h-0.864z"/>
+   <path id="path24" d="m3.1826667 13.209333v3.153334c0 0.522666 0.061333 0.728 0.484 1.122666l3.656 2.510667v1.074667l-4.2706667-3.033334s-0.736-0.433333-0.736-1.604h4e-3v-3.222666h0.8626667z"/>
+  </g>
+  <path id="Rectangle-3" d="M 9,46.504739 C 9,45.673695 9.6680024,45 10.50435,45 h 42.9913 C 54.32648,45 55,45.668315 55,46.504739 V 53 H 9 Z" style="fill-rule:evenodd;fill:#ffffff"/>
+  <path id="path28" d="M 9,51.506398 C 9,50.674437 9.6680024,50 10.50435,50 h 42.991299 c 0.830829,0 1.504349,0.676463 1.504349,1.506398 v 5.987204 C 54.999998,58.325563 54.331996,59 53.495649,59 H 10.50435 C 9.6735202,59 9,58.323537 9,57.493602 Z" style="fill-rule:evenodd;fill:#dcdddd"/>
+  <path id="Combined-Shape" d="m36 52.994667h1v3h-1zm3 0h1v3h-1zm3 0h1v3h-1zm3 0h1v3h-1zm3 0h1v3h-1zm3 0h1v3h-1z" style="fill-rule:evenodd;fill:#4d4d4d"/>
+  <path id="path31" d="m14.5 56c0.828427 0 1.5-0.671573 1.5-1.5s-0.671573-1.5-1.5-1.5-1.5 0.671573-1.5 1.5 0.671573 1.5 1.5 1.5z" style="fill-rule:evenodd;fill:#4d4d4d"/>
+ </g>
+</svg>

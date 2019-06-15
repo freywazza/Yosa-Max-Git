@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg35" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title id="title2">drive-removable-media-48px</title>
+ <desc id="desc4">Created with Sketch.</desc>
+ <defs id="defs11">
+  <linearGradient id="linearGradient952" x1="-26.230474" x2="-26.230474" y1="47.831593" y2="26.569883" gradientTransform="matrix(.94789018 0 0 .94788549 48.864511 -15.185139)" gradientUnits="userSpaceOnUse">
+   <stop id="stop30-7" stop-color="#197cf1" offset="0"/>
+   <stop id="stop32-0" stop-color="#20bcfa" offset="1"/>
+  </linearGradient>
+ </defs>
+ <path id="Rectangle-1" d="m8 4h32c0.554 0 1 0.446 1 1v33c0 0.554-0.446 1-1 1h-32c-0.554 0-1-0.446-1-1v-33c0-0.554 0.446-1 1-1z" style="fill-rule:evenodd;fill:#bbbec4"/>
+ <path id="Rectangle-3" d="m7 34h34v6h-34z" style="fill-rule:evenodd;fill:#ffffff"/>
+ <path id="rect16" d="m8 38h32c0.554 0 1 0.446 1 1v4c0 0.554-0.446 1-1 1h-32c-0.554 0-1-0.446-1-1v-4c0-0.554 0.446-1 1-1z" style="fill-rule:evenodd;fill:#bbbec4"/>
+ <path id="Rectangle-path" d="m26.986328 39.996094v2h1v-2h-1zm2 0v2h1v-2h-1zm2 0v2h1v-2h-1zm2 0v2h1v-2h-1zm2 0v2h1v-2h-1zm2 0v2h1v-2h-1z" style="fill-rule:evenodd;fill:#2e2e2f"/>
+ <path id="Oval" d="m13 41a1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1 1 1 0 0 1 1 1z" style="fill-rule:evenodd;fill:#2c2c2e"/>
+ <path id="path950" d="m24 9.9999995a8.9999981 8.9999542 0 0 0-9 9.0000005 8.9999981 8.9999542 0 0 0 9 9 8.9999981 8.9999542 0 0 0 9-9 8.9999981 8.9999542 0 0 0-9-9.0000005zm4.042969 4.4511715 1.525391 1.63086-7.033204 7.466797-4.101562-4.353516 1.537109-1.630859 2.564453 2.734375z" style="fill:url(#linearGradient952);stroke-width:1.4850954"/>
+</svg>

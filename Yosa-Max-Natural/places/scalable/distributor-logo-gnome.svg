@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg5453" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs5455">
+  <linearGradient id="linearGradient4181" x1="399.9939" x2="399.9939" y1="545.13873" y2="518.13873" gradientTransform="matrix(.94608315 0 0 .94608315 21.456793 28.579421)" gradientUnits="userSpaceOnUse">
+   <stop id="stop4233" style="stop-color:#1a85f2" offset="0"/>
+   <stop id="stop4235-7" style="stop-color:#20bafa" offset="1"/>
+  </linearGradient>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  <style id="current-color-scheme-8" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  <style id="current-color-scheme-7" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+ </defs>
+ <g id="layer1" transform="translate(-384.57143,-499.798)">
+  <g id="g4471" transform="matrix(1.0931221,0,0,1.0931221,33.310366,-50.486049)">
+   <g id="g4320" transform="matrix(.98381885 0 0 .98381885 5.5651187 8.3948576)">
+    <g id="layer1-3" transform="matrix(1.5444819,0,0,1.5444819,-275.17538,-295.73877)">
+     <circle id="path3377" cx="400.43063" cy="531.70447" r="13.245125" style="fill:url(#linearGradient4181)"/>
+     <g id="g3773" transform="matrix(.13766146 0 0 .13766146 393.80844 523.56453)" style="fill-opacity:.96460176;fill:#ffffff">
+      <path id="path3775" d="m86.068 0c-24.602 0-29.217 35.041-15.377 35.041 13.838 0 39.98-35.041 15.377-35.041z" style="fill-opacity:.96460176;fill:#ffffff;stroke-width:1.4196761"/>
+      <path id="path3777" d="m45.217 30.699c7.369 0.45 15.454-28.122 1.604-26.325-13.845 1.797-8.976 25.875-1.604 26.325z" style="fill-opacity:.96460176;fill:#ffffff;stroke-width:1.4196761"/>
+      <path id="path3779" d="m11.445 48.453c5.241-2.307 0.675-24.872-8.237-18.718-8.908 6.155 2.996 21.024 8.237 18.718z" style="fill-opacity:.96460176;fill:#ffffff;stroke-width:1.4196761"/>
+      <path id="path3781" d="m26.212 36.642c6.239-1.272 6.581-26.864-4.545-22.273-11.128 4.592-1.689 23.547 4.545 22.273z" style="fill-opacity:.96460176;fill:#ffffff;stroke-width:1.4196761"/>
+      <path id="path3783" d="m58.791 93.913c1.107 8.454-6.202 12.629-13.36 7.179-22.787-17.349 37.729-26.004 33.74-49.706-3.311-19.674-63.676-13.617-70.55 17.167-4.653 20.821 19.153 49.707 43.993 49.707 12.22 0 26.315-11.034 28.952-25.012 2.014-10.659-23.699-6.388-22.775 0.665z" style="fill-opacity:.96460176;fill:#ffffff;stroke-width:1.4196761"/>
+     </g>
+    </g>
+   </g>
+   <g id="layer1-23" transform="matrix(.91481089 0 0 .91481089 -114.4218 -211.60344)">
+    <rect id="rect3024-5" transform="translate(0,52.362)" x="864" y="543" width="20" height="60" ry="10" style="fill-opacity:0"/>
+   </g>
+  </g>
+ </g>
+</svg>

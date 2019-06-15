@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg5" version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs3051">
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#4d4d4d;
+      }</style>
+ </defs>
+ <circle id="path819" cx="11" cy="11" r="7.6440678" style="fill:#ffffff"/>
+ <path id="path820" d="m11 3c-4.4182798-6e-6 -7.9999998 3.58172-7.9999998 8s3.58172 8.000007 7.9999998 8c4.418274 0 8-3.581725 8-8 0-4.418274-3.581726-8-8-8zm0 3.572265c0.994148 0 1.794922 0.616953 1.794922 1.384766v6.085938c0 0.767813-0.800774 1.384765-1.794922 1.384765s-1.794922-0.616952-1.794922-1.384765v-6.085938c0-0.767813 0.800774-1.384766 1.794922-1.384766z" style="fill:#f39800"/>
+</svg>
