@@ -71,3 +71,11 @@
 ### Apps : wps-office-wpsmain, wps-office-wppmain, wps-office-etmain, dnfdragora, krename, wine, wine-winetricks, kcolorchooser, applications-utilities, applications-office, applications-development, applications-graphics, applications-games, onboard-settings, administration, opera, opera-next, opera-widget,  sublime-text, preferences-desktop-mouse, system-error, preferences-desktop-theme, remote-desktop, preferences-desktop-remote-desktop, knetattach, chrome-remote-desktop, bittorrent, nepomuk, etc (+200).
 
 ### Optimized svg files to reduce file sizes.
+
+
+## v1.9 (June 17 2019)
+### Added new variants, Yosa Max Natural and Yosa Max Natural Dark.
+
+### Adjusted some accent colors for the new variants.
+
+### Fixed/improved some action menu and emblem icons.
